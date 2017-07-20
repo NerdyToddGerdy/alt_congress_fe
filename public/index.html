@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="altCong">
+    <head>
+        <title>ALTCONGRESS TEST</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+         <link href="style.css" rel="stylesheet"> 
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+        <script type="text/javascript" src="/app.js"></script>
+    </head>
+    <body ng-controller="mainController as ctrl">
+        <h1>TEST</h1>
+        <div class="outerShell">
+            <div class="innerShell" ng-repeat="user in ctrl.users">
+                <p>{{user.id}}</p>
+                <p>{{user.first_name}}</p>
+                <p>{{user.last_name}}</p>
+                <p>{{user.email}}</p>
+                <p>{{user.address}}</p>
+                <p>{{user.State}}</p>
+                <p>{{user.zip}}</p>
+                <p>{{user.district}}</p>
+                <p>{{user.gender}}</p>
+                <p>{{user.i_fund}}</p>
+                <p>{{user.i_join}}</p>
+                <p>{{user.i_vote}}</p>
+                <p>{{user.verified}}</p>  
+            </div>
+        </div>
+    </body>
+</html>
