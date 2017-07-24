@@ -1,15 +1,35 @@
 <!DOCTYPE html>
 <html lang="en" ng-app="altCong">
     <head>
-        <title>ALTCONGRESS TEST</title>
+        <title>for the people...</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-         <link href="style.css" rel="stylesheet"> 
+        <link href="css/style.css" rel="stylesheet"> 
+        <link rel="stylesheet" href="css/skel.css" />
+		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/style-xlarge.css" />
         <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-route.min.js"></script>
         <script type="text/javascript" src="/app.js"></script>
+        <base href="/">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
     </head>
+
+
     <body ng-controller="mainController as ctrl">
-        <h1>TEST</h1>
+
+        <header id="header" >
+            <ng-include class="nav-class" src="'./partials/nav.html'"></ng-include>
+        </header>
+
+
+        <section>
+            <video width="320" height="240" controls>
+                <source src="https://res.cloudinary.com/toddles/video/upload/v1500906436/20170704_193308_rl8vbn.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </section>
+
         <form ng-submit="ctrl.processForm()">
             <input type="text" ng-model="ctrl.formdata.first_name" placeholder=".first_name">
             <input type="text" ng-model="ctrl.formdata.last_name" placeholder=".last_name">
@@ -25,6 +45,7 @@
             <input type="text" ng-model="ctrl.formdata.verified" placeholder=".verified">
             <input type="submit" value="submit">
         </form>
+        <!-- This section is for the Admins only -->
         <div class="outerShell">
             <div class="innerShell" ng-repeat="user in ctrl.users">
                 <p>{{user.id}}</p>
@@ -42,5 +63,8 @@
                 <p>{{user.verified}}</p>  
             </div>
         </div>
+        <footer>
+            
+        </footer>
     </body>
 </html>
