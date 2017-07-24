@@ -12,7 +12,7 @@ app.controller('mainController', ['$http', function($http) {
     
     // SHOW TRIGGERS
     this.showHomePage = true;
-    this.showDetailsPare = false;
+    this.showDetailsPage = false;
     this.showMissionPage = false;
     this.showQuestionsPage = false;
 
@@ -20,7 +20,7 @@ app.controller('mainController', ['$http', function($http) {
     this.clearScreen = () =>{
         console.log('running clear screen');
         this.showHomePage = false;
-        this.showDetailsPare = false;
+        this.showDetailsPage = false;
         this.showMissionPage = false;
         this.showQuestionsPage = false;
     }

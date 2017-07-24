@@ -1204,3 +1204,19 @@
 		.grid-demo .row.flush > div:last-child span {
 			border-radius: 0 4px 4px 0;
 		}
+
+		/* .video_section {
+			width: 100%;
+		} */
+		.vid-class{
+			width: 100%;
+			/* margin: 0 auto; */
+			display: flex;
+			background-color: #562f74;
+		}
+		.vid-class iframe {
+			margin: 0 auto;
+			width: 115vh;
+    		height: 65vh;
+		
+		}

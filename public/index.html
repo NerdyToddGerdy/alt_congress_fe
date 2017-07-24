@@ -21,16 +21,20 @@
         <header id="header" >
             <ng-include class="nav-class" src="'./partials/nav.html'"></ng-include>
         </header>
-
+        <div id="pitch" ng-show="ctrl.showHomePage">
         <!-- this will be the video -->
-        <section>
-            <video width="320" height="240" controls>
-                <source src="https://youtu.be/7KFP7HQ1xpo" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-        </section>
+            <section id="video_section">
+                <ng-include class="vid-class" src="'./partials/video.html'"></ng-include>
+            </section>
+            <section id="pitch">
+                
+            </section>
+        </div>
+        <div id="details" ng-show="ctrl.showDetailsPage">
+            <ng-include class="details" src="'./partials/details.html'"></ng-include>
+        </div>
 
-        <form ng-submit="ctrl.processForm()">
+        <!-- <form ng-submit="ctrl.processForm()">
             <input type="text" ng-model="ctrl.formdata.first_name" placeholder=".first_name">
             <input type="text" ng-model="ctrl.formdata.last_name" placeholder=".last_name">
             <input type="text" ng-model="ctrl.formdata.email" placeholder=".email">
@@ -44,9 +48,9 @@
             <input type="text" ng-model="ctrl.formdata.i_vote" placeholder=".i_vote">
             <input type="text" ng-model="ctrl.formdata.verified" placeholder=".verified">
             <input type="submit" value="submit">
-        </form>
+        </form> -->
         <!-- This section is for the Admins only -->
-        <div class="outerShell">
+        <!-- <div class="outerShell">
             <div class="innerShell" ng-repeat="user in ctrl.users">
                 <p>{{user.id}}</p>
                 <p>{{user.first_name}}</p>
@@ -62,7 +66,7 @@
                 <p>{{user.i_vote}}</p>
                 <p>{{user.verified}}</p>  
             </div>
-        </div>
+        </div> -->
         <footer>
             
         </footer>
