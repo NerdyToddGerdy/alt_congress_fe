@@ -6,19 +6,19 @@
 <nav id="nav">
     <ul>
         <!-- WHERE DOES PTCH TAKE ME -->
-        <li>Pitch</li>
+        <li ng-click="ctrl.clearScreen(); ctrl.showHomePage = true" class="" >Pitch</li>
 
         <!-- WHERE DOES DETAILS TAKE ME -->
-        <li>Details</li>  
+        <li ng-click="ctrl.clearScreen(); ctrl.showDetailsPage = true" class="" >Details</li>  
 
         <!-- WHERE DOES MISSION TAKE ME -->
-        <li>Mission</li> 
+        <li ng-click='ctrl.clearScreen(); ctrl.showMissionPage = true' class="" >Mission</li> 
 
         <!-- WHERE DOES QUESTIONS TAKE ME -->
-        <li>Questions</li>  
+        <li ng-click="ctrl.clearScreen(); ctrl.showQuestionsPage = true" class ="" >Questions</li>  
 
         <!-- WHERE DOES GET INVOVED TAKE ME -->
-        <li>Get Involved</li>  
+        <li ng-click="ctrl.clearScreen(); ctrl.showGetInvolvedPage = true" class="" >Get Involved</li>  
     </ul>
 </nav>
     
