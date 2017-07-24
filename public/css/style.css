@@ -1205,6 +1205,8 @@
 			border-radius: 0 4px 4px 0;
 		}
 
+	
+/* Video Section	 */
 		/* .video_section {
 			width: 100%;
 		} */
@@ -1219,4 +1221,24 @@
 			width: 115vh;
     		height: 65vh;
 		
+		}
+
+		header.major {
+			position: absolute;
+			/* left: 35%; */
+			margin: 0 auto;
+			z-index: 10;
+			top: 25%;
+			display: flex;
+			flex-direction: column;
+			width: 89%
+		}
+		header.major h2 {
+			color: #aa92cc;
+		}
+		section#main {
+			padding: 0;
+		}
+		.container {
+			width: 75%;
 		}
