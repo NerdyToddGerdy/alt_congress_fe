@@ -33,7 +33,12 @@
         <div id="details" ng-show="ctrl.showDetailsPage">
             <ng-include class="details" src="'./partials/details.html'"></ng-include>
         </div>
-
+        <div id="mission" ng-show="ctrl.showMissionPage">
+            <ng-include class="mission" src="'./partials/mission.html'"
+        </div>
+        <div id="questions">
+            <ng-include class="questions" src="'./partials/questions.html'" ></ng-include>
+        </div>
         <!-- <form ng-submit="ctrl.processForm()">
             <input type="text" ng-model="ctrl.formdata.first_name" placeholder=".first_name">
             <input type="text" ng-model="ctrl.formdata.last_name" placeholder=".last_name">
