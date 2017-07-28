@@ -1,5 +1,15 @@
-<section id="main" >
-    <div>
-        
+<section id="main" class="wrapper" >
+    <div class="container">
+        <header class="major2">
+            <h3>Questins and Answers</h3>
+        </header>
+         <ul ng-repeat="QnA in ctrl.qand_as "> 
+            <li>
+                <p>Q:</p>
+                <h3>{{QnA.question}}</h3>
+                <b>A:</b>
+                <h4>{{QnA.answer}}</h4>
+            </li>
+         </ul>
     </div>
 </section>

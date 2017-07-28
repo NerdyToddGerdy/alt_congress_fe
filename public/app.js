@@ -19,6 +19,7 @@ app.config(($routeProvider) => {
 app.controller('mainController', ['$http', function($http) {
     // this.message = "controller works";
     this.users = [];
+    this.qand_as = [];
     this.formdata = {};
     
     // SHOW TRIGGERS
@@ -65,7 +66,7 @@ app.controller('mainController', ['$http', function($http) {
             // console.log('====================================');
             console.log(response);
             // console.log('====================================');
-            this.users = response.data.users
+            this.users = response.data.users;
             console.log(this.users);
         }.bind(this));
     }
@@ -73,10 +74,11 @@ app.controller('mainController', ['$http', function($http) {
     this.getQuestions = () => {
         $http({
             method: 'GET',
-            url: myURL + '/quest_and_ans'
-        }).then((response)=> {
+            url: myURL + '/qand_as'
+        }).then(function(response) {
             console.log(response)
-        })
+            this.qand_as = response.data.qand_as;
+        }.bind(this));
     }
 
     // this.getUsers();

@@ -14,9 +14,9 @@
             <ng-include class="details" src="'./partials/details.html'"></ng-include>
         </div>
         <div id="mission" ng-show="ctrl.showMissionPage">
-            <ng-include class="mission" src="'./partials/mission.html'"
+            <ng-include class="mission" src="'./partials/mission.html'"></ng-include>
         </div>
-        <div id="questions">
+        <div id="questions" ng-show="ctrl.showQuestionsPage">
             <ng-include class="questions" src="'./partials/questions.html'" ></ng-include>
         </div>
         <!-- <form ng-submit="ctrl.processForm()">
