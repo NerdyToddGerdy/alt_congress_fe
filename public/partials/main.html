@@ -1,0 +1,57 @@
+<header id="header" >
+            <ng-include class="nav-class" src="'./partials/nav.html'"></ng-include>
+        </header>
+        <div id="pitch" ng-show="ctrl.showHomePage">
+        <!-- this will be the video -->
+            <section id="video_section">
+                <ng-include class="vid-class" src="'./partials/video.html'"></ng-include>
+            </section>
+            <section id="pitch">
+                
+            </section>
+        </div>
+        <div id="details" ng-show="ctrl.showDetailsPage">
+            <ng-include class="details" src="'./partials/details.html'"></ng-include>
+        </div>
+        <div id="mission" ng-show="ctrl.showMissionPage">
+            <ng-include class="mission" src="'./partials/mission.html'"
+        </div>
+        <div id="questions">
+            <ng-include class="questions" src="'./partials/questions.html'" ></ng-include>
+        </div>
+        <!-- <form ng-submit="ctrl.processForm()">
+            <input type="text" ng-model="ctrl.formdata.first_name" placeholder=".first_name">
+            <input type="text" ng-model="ctrl.formdata.last_name" placeholder=".last_name">
+            <input type="text" ng-model="ctrl.formdata.email" placeholder=".email">
+            <input type="text" ng-model="ctrl.formdata.address" placeholder=".address">
+            <input type="text" ng-model="ctrl.formdata.State" placeholder=".State">
+            <input type="text" ng-model="ctrl.formdata.zip" placeholder=".zip">
+            <input type="text" ng-model="ctrl.formdata.district" placeholder=".district">
+            <input type="text" ng-model="ctrl.formdata.gender" placeholder=".gender">
+            <input type="text" ng-model="ctrl.formdata.i_fund" placeholder=".i_fund">
+            <input type="text" ng-model="ctrl.formdata.i_join" placeholder=".i_join">
+            <input type="text" ng-model="ctrl.formdata.i_vote" placeholder=".i_vote">
+            <input type="text" ng-model="ctrl.formdata.verified" placeholder=".verified">
+            <input type="submit" value="submit">
+        </form> -->
+        <!-- This section is for the Admins only -->
+        <!-- <div class="outerShell">
+            <div class="innerShell" ng-repeat="user in ctrl.users">
+                <p>{{user.id}}</p>
+                <p>{{user.first_name}}</p>
+                <p>{{user.last_name}}</p>
+                <p>{{user.email}}</p>
+                <p>{{user.address}}</p>
+                <p>{{user.State}}</p>
+                <p>{{user.zip}}</p>
+                <p>{{user.district}}</p>
+                <p>{{user.gender}}</p>
+                <p>{{user.i_fund}}</p>
+                <p>{{user.i_join}}</p>
+                <p>{{user.i_vote}}</p>
+                <p>{{user.verified}}</p>  
+            </div>
+        </div> -->
+        <footer>
+            
+        </footer>

@@ -1252,5 +1252,37 @@
 			width: 75%
 		}
 		.major2 h3{
-			text-align: center
+			text-align: center;
+		} 
+		.user-list{
+			display:flex;
+			justify-content: flex-start;
 		}
+		.user-list p{
+			border: solid black 1px;
+			/* flex-grow: 1; */
+		}
+		.user-id {
+			width: 2%;
+		}
+		.user-last, .user-first{
+			width: 10%
+		}
+		.user-email {
+			width: 29%%
+		}
+		
+
+		#header nav > ul > li a {
+						-moz-transition: color 0.2s ease-in-out;
+						-webkit-transition: color 0.2s ease-in-out;
+						-o-transition: color 0.2s ease-in-out;
+						-ms-transition: color 0.2s ease-in-out;
+						transition: color 0.2s ease-in-out;
+						color: #000000;
+						display: inline-block;
+						text-decoration: none;
+					}
+
+
+					

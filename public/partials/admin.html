@@ -1,0 +1,29 @@
+<ul>
+    <li ng-click="ctrl.clearScreen(); ctrl.showQAForAdmin = true;">Q&A</li>
+    <li ng-click="ctrl.clearScreen(); ctrl.showUserListForAdmin = true">User List</li>
+</ul>
+
+<div ng-show="ctrl.showQAForAdmin">
+    <h2>QA page</h2>
+</div>
+
+
+<div ng-show="ctrl.showUserListForAdmin">
+    <h2>User list</h2>
+    <p>Number of users: {{ctrl.users.length}}</p>
+    <div class="user-list" ng-repeat="user in ctrl.users">
+        <p class="user-id">{{user.id}}</p>
+        <p class="user-last">{{user.last_name}}</p>
+        <p class="user-first">{{user.first_name}}</p>
+        <p class="user-email">{{user.email}}</p>
+        <p class="user-address">{{user.address}}</p>
+        <p class="user-state">{{user.State}}</p>
+        <p class="user-zip">{{user.zip}}</p>
+        <p class="user-district">{{user.district}}</p>
+        <p class="user-gender">{{user.gender}}</p>
+        <p class="user-i_fund">{{user.i_fund}}</p>
+        <p class="user-i_join">{{user.i_join}}</p>
+        <p class="user-i_vote">{{user.i_vote}}</p>
+        <p class="user-verified">{{user.verified}}</p>
+    </div>
+</div>
