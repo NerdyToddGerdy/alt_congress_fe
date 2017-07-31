@@ -1272,8 +1272,18 @@
 			width: 29%%
 		}
 		
+		img.main-logo {
+    		width: 30%;
+			position: relative;
+			top: -140%;
+			left: -4%;
+		}
 
-		#header nav > ul > li a {
+		img.main-logo:hover {
+			cursor: pointer
+		}
+
+		/* #header nav > ul > li a {
 						-moz-transition: color 0.2s ease-in-out;
 						-webkit-transition: color 0.2s ease-in-out;
 						-o-transition: color 0.2s ease-in-out;
@@ -1283,6 +1293,6 @@
 						display: inline-block;
 						text-decoration: none;
 					}
-
+ */
 
 					

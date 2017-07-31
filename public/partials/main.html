@@ -1,4 +1,4 @@
-<header id="header" >
+<header id="header2" >
             <ng-include class="nav-class" src="'./partials/nav.html'"></ng-include>
         </header>
         <div id="pitch" ng-show="ctrl.showHomePage">
@@ -63,10 +63,30 @@
                                 <a class="icon rounded fa-google-plus"><span class="label" >Google+</span></a>
                             </li>
                             <li>
-                                <a class="icon rounded fa-linkedin"><span class="label" >LinkedIn</span></a>
+                                <a class="icon rounded fa-linkedin"><span class="label" >Facebook</span></a>
                             </li>
                         </ul>
                     </div>
                 </div>
             </div>
+ 
         </footer>
+        <div id="skel-layers-hiddenWrapper" style="height: 100%" >
+            <div id="navPanel" class="skel-layer" style="backface-visibility: hidden; transition: -webkit-transform 0.5s ease, opacity 0.5s ease; z-index: 10000; position: fixed; display: none; overflow-y: auto; overflow-x: hidden; transform: translate(0px, 0px);">
+                <div data-action="moveElement" data-args="nav">
+                    <nav id="nav" class="skel-layers-moved">
+                        <ul>
+                            <li><a href="index.html" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Home</a></li>
+                            <li><a href="generic.html" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Generic</a></li>
+                            <li><a href="elements.html" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Elements</a></li>
+                            <li><a href="#" class="button special" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Sign Up</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <div id="skel-layers-visibleWrapper" style="position: relative;">
+            <div id="navButton" class="skel-layer skel-layer-top-left" style="backface-visibility: hidden; transition: -webkit-transform 0.5s ease, opacity 0.5s ease; z-index: 10002; position: fixed; display: block; top: 0px; left: 0px; transform: translate(0px, 0px); width: 6em; height: 4em;">
+                <span class="toggle" data-action="toggleLayer" data-args="navPanel" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); cursor: pointer;"></span>
+            </div>
+        </div>
