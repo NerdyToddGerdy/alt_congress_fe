@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="altCong" class="global xlarge large medium small">
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105333969-2"></script>
+        <script>
+             window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+             gtag('js', new Date());
+            gtag('config', 'UA-105333969-2');
+        </script>
+        <title>for the people...</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="/js/jquery.min.js"></script>
+        <script src="/js/skel.min.js"></script>
+        <script src="/js/skel-layers.min.js"></script>
+        <script src="/js/init.js"></script>
+        <noscript>
+            <link href="./css/style.css" rel="stylesheet">
+            <link rel="stylesheet" href="css/skel.css" />
+            <!-- <link rel="stylesheet" href="css/style-xlarge.css" /> -->
+            <link rel="stylesheet" href="css/style-large.css" />
+            <!-- <link rel="stylesheet" href="css/style-xsmall.css" /> -->
+            <link rel="stylesheet" href="css/style.css" />
+        </noscript>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-route.min.js"></script>
+        <script type="text/javascript" src="/app2.js"></script>
+        <base href="/">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    </head>
+
+    <body ng-controller="mainController as ctrl">
+        <!-- This will send you to the main.html -->
+        <ng-include class="main" src="'./partials/main.html'"></ng-include>
+        <!--<ng-view></ng-view>        -->
+    </body>
+</html>

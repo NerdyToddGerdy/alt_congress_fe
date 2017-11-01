@@ -5,9 +5,9 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="js/jquery.min.js"></script>
-        <script src="js/skel.min.js"></script>
-        <script src="js/skel-layers.min.js"></script>
-        <script src="js/init.js"></script>
+        <script src="./public/js/skel.min.js"></script>
+        <script src="./public/js/skel-layers.min.js"></script>
+        <script src="./public/js/init.js"></script>
         <noscript>
             <link href="css/style.css" rel="stylesheet"> 
             <link rel="stylesheet" href="css/skel.css" /> 
@@ -18,13 +18,14 @@
         </noscript>
         <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-route.min.js"></script>
-        <script type="text/javascript" src="/app.js"></script>
+        <script type="text/javascript" src="/public/app.js"></script>
         <base href="/">
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
     </head>
 
     <body ng-controller="mainController as ctrl">
+        <!--<ng-include src="'./public/partials/main.html'"></ng-include>-->
         <!-- This will send you to the main.html -->
-        <ng-view></ng-view>        
+        <!--<ng-view></ng-view>        -->
     </body>
 </html>

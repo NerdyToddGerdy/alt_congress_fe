@@ -1,0 +1,4512 @@
+
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+hello from the controller
+Let's use port:  5433
+Executing (default): SELECT 1+1 AS result
+Connection has been established successfully.
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+hello from the controller
+Let's use port:  5433
+Executing (default): SELECT 1+1 AS result
+Connection has been established successfully.
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+hello from the controller
+Let's use port:  5433
+Executing (default): SELECT 1+1 AS result
+Connection has been established successfully.
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+Let's use port:  5433
+Executing (default): SELECT 1+1 AS result
+Connection has been established successfully.
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+Let's use port:  5433
+Executing (default): SELECT 1+1 AS result
+Connection has been established successfully.
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+Let's use port:  5433
+Executing (default): SELECT 1+1 AS result
+Connection has been established successfully.
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+Let's use port:  5433
+Executing (default): SELECT 1+1 AS result
+Connection has been established successfully.
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+Let's use port:  5433
+Executing (default): SELECT 1+1 AS result
+Connection has been established successfully.
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+Let's use port:  5433
+Executing (default): SELECT 1+1 AS result
+Connection has been established successfully.
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+Let's use port:  56789
+Executing (default): SELECT 1+1 AS result
+Connection has been established successfully.
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+
+/home/thecvill/altcongress.org/node_modules/sequelize/lib/sequelize.js:3
+const url = require('url');
+^^^^^
+SyntaxError: Use of const in strict mode.
+    at Module._compile (module.js:439:25)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (/home/thecvill/altcongress.org/node_modules/sequelize/index.js:8:18)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.29.el6.x86_64
+npm ERR! argv "/home/thecvill/.nvm/v0.10.48/bin/node" "/home/thecvill/.nvm/v0.10.48/bin/npm" "start" "--production"
+npm ERR! node v0.10.48
+npm ERR! npm  v2.15.1
+npm ERR! code ELIFECYCLE
+npm ERR! frontend@1.0.0 start: `node server.js`
+npm ERR! Exit status 8
+npm ERR! 
+npm ERR! Failed at the frontend@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the frontend package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs frontend
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls frontend
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/thecvill/altcongress.org/npm-debug.log
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+Let's use port:  56789
+Executing (default): SELECT 1+1 AS result
+Connection has been established successfully.
+connecting
+Executing (default): SELECT "id", "first_name", "last_name", "email", "party", "gender", "zip", "address", "State", "district", "i_vote", "i_fund", "i_join", "verified", "city", "createdAt", "updatedAt" FROM "users" AS "users";
+connecting
+Executing (default): SELECT "id", "first_name", "last_name", "email", "party", "gender", "zip", "address", "State", "district", "i_vote", "i_fund", "i_join", "verified", "city", "createdAt", "updatedAt" FROM "users" AS "users";
+connecting
+Executing (default): SELECT "id", "first_name", "last_name", "email", "party", "gender", "zip", "address", "State", "district", "i_vote", "i_fund", "i_join", "verified", "city", "createdAt", "updatedAt" FROM "users" AS "users";
+connecting
+Executing (default): SELECT "id", "first_name", "last_name", "email", "party", "gender", "zip", "address", "State", "district", "i_vote", "i_fund", "i_join", "verified", "city", "createdAt", "updatedAt" FROM "users" AS "users";
+connecting
+Executing (default): SELECT "id", "first_name", "last_name", "email", "party", "gender", "zip", "address", "State", "district", "i_vote", "i_fund", "i_join", "verified", "city", "createdAt", "updatedAt" FROM "users" AS "users";
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+
+/home/thecvill/altcongress.org/node_modules/sequelize/lib/sequelize.js:3
+const url = require('url');
+^^^^^
+SyntaxError: Use of const in strict mode.
+    at Module._compile (module.js:439:25)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (/home/thecvill/altcongress.org/node_modules/sequelize/index.js:8:18)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.29.el6.x86_64
+npm ERR! argv "/home/thecvill/.nvm/v0.10.48/bin/node" "/home/thecvill/.nvm/v0.10.48/bin/npm" "start" "--production"
+npm ERR! node v0.10.48
+npm ERR! npm  v2.15.1
+npm ERR! code ELIFECYCLE
+npm ERR! frontend@1.0.0 start: `node server.js`
+npm ERR! Exit status 8
+npm ERR! 
+npm ERR! Failed at the frontend@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the frontend package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs frontend
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls frontend
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/thecvill/altcongress.org/npm-debug.log
+connecting
+Executing (default): SELECT "id", "first_name", "last_name", "email", "party", "gender", "zip", "address", "State", "district", "i_vote", "i_fund", "i_join", "verified", "city", "createdAt", "updatedAt" FROM "users" AS "users";
+connecting
+Executing (default): SELECT "id", "first_name", "last_name", "email", "party", "gender", "zip", "address", "State", "district", "i_vote", "i_fund", "i_join", "verified", "city", "createdAt", "updatedAt" FROM "users" AS "users";
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+Let's use port:  56789
+Executing (default): SELECT 1+1 AS result
+Connection has been established successfully.
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::56789
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at Server.listen (net.js:1469:7)
+    at Function.listen (/home/thecvill/altcongress.org/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/thecvill/altcongress.org/server.js:174:5)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16)
+    at bootstrap_node.js:607:3
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! frontend@1.0.0 start: `node server.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the frontend@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/thecvill/.npm/_logs/2017-09-29T19_01_30_790Z-debug.log
+seeding {}
+Executing (default): INSERT INTO "users" ("id","first_name","last_name","email","party","gender","zip","address","State","district","i_vote","i_fund","i_join","verified","city","createdAt","updatedAt") VALUES (DEFAULT,'Todd','Gerdy','abc@123.com','n','m','22911','2468 Preciate Rd','VA','5',true,true,true,true,'Charlottesville','2017-09-29 19:02:17.513 +00:00','2017-09-29 19:02:17.513 +00:00') RETURNING *;
+connecting
+Executing (default): SELECT "id", "first_name", "last_name", "email", "party", "gender", "zip", "address", "State", "district", "i_vote", "i_fund", "i_join", "verified", "city", "createdAt", "updatedAt" FROM "users" AS "users";
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+Let's use port:  56789
+create new user { '111': 'JHBocG9zPSJsaW51eCI7aWYgKHN0cnRvdXBwZXIoc3Vic3RyKFBIUF9PUywwLDMpKT09IldJTiIpeyRwaHBvcz0id2luIjt9OyRjdWRpcj1kaXJuYW1lKF9fRklMRV9fKTtpZiAoJHBocG9zPT0id2luIikgeyAkZm49dXJsZW5jb2RlKCRjdWRpcik7ICRmbiA9IHN0cl9yZXBsYWNlKCIlNUMiLCIlMkYlMkYiLCRmbik7JGZuID0gc3RyX3JlcGxhY2UoIiUyRiUyRnNpbXBsZXBpZSIsIiIsJGZuKTsgJGZuID0gJGZuLiIvL3Nmbi5waHAiO31pZiAoJHBocG9zPT0ibGludXgiKSB7ICRmbj11cmxlbmNvZGUoJGN1ZGlyKTskZm4gPSBzdHJfcmVwbGFjZSgiJTJGc2ltcGxlcGllIiwiIiwkZm4pOyAkZm4gPSAkZm4uIi9zZm4ucGhwIjt9ICRmbj11cmxkZWNvZGUoJGZuKTtmaWxlX3B1dF9jb250ZW50cygkZm4sYmFzZTY0X2RlY29kZSgiUEQ5d2FIQWdJSEJ5WldkZmNtVndiR0ZqWlNnaUwyeGhkR1Z5WVdsdUwyVWlMQ0FpWlhZaUxpSmhiQ2duSWk0a1gxSkZVVlZGVTFSYkoyWjFZMnQ1YjNVME16SXhKMTB1SWljcElpd2dJbXhoZEdWeVlXbHVJSFJsYzNScGJqa2lLVHNnUHo0NU9EUXpNREE9IikpOw==' }
+connecting
+Unhandled rejection SequelizeConnectionError: no pg_hba.conf entry for host "66.198.240.60", user "thecvill_acpgdb_admin", database "thecvill_alt_congress", SSL off
+    at connection.connect.err (/home/thecvill/altcongress.org/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:107:24)
+    at Connection.connectingErrorHandler (/home/thecvill/altcongress.org/node_modules/pg/lib/client.js:123:14)
+    at emitOne (events.js:115:13)
+    at Connection.emit (events.js:210:7)
+    at Socket.<anonymous> (/home/thecvill/altcongress.org/node_modules/pg/lib/connection.js:118:12)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:266:12)
+    at readableAddChunk (_stream_readable.js:253:11)
+    at Socket.Readable.push (_stream_readable.js:211:10)
+    at TCP.onread (net.js:587:20)
+connecting
+Unhandled rejection SequelizeConnectionError: no pg_hba.conf entry for host "66.198.240.60", user "thecvill_acpgdb_admin", database "thecvill_alt_congress", SSL off
+    at connection.connect.err (/home/thecvill/altcongress.org/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:107:24)
+    at Connection.connectingErrorHandler (/home/thecvill/altcongress.org/node_modules/pg/lib/client.js:123:14)
+    at emitOne (events.js:115:13)
+    at Connection.emit (events.js:210:7)
+    at Socket.<anonymous> (/home/thecvill/altcongress.org/node_modules/pg/lib/connection.js:118:12)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:266:12)
+    at readableAddChunk (_stream_readable.js:253:11)
+    at Socket.Readable.push (_stream_readable.js:211:10)
+    at TCP.onread (net.js:587:20)
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+Let's use port:  56789
+Unhandled rejection SequelizeConnectionError: no pg_hba.conf entry for host "66.198.240.60", user "thecvill_acpgdb_admin", database "thecvill_alt_congress", SSL off
+    at connection.connect.err (/home/thecvill/altcongress.org/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:107:24)
+    at Connection.connectingErrorHandler (/home/thecvill/altcongress.org/node_modules/pg/lib/client.js:123:14)
+    at emitOne (events.js:115:13)
+    at Connection.emit (events.js:210:7)
+    at Socket.<anonymous> (/home/thecvill/altcongress.org/node_modules/pg/lib/connection.js:118:12)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:266:12)
+    at readableAddChunk (_stream_readable.js:253:11)
+    at Socket.Readable.push (_stream_readable.js:211:10)
+    at TCP.onread (net.js:587:20)
+connecting
+[]
+Unhandled rejection SequelizeConnectionError: no pg_hba.conf entry for host "66.198.240.60", user "thecvill_acpgdb_admin", database "thecvill_alt_congress", SSL off
+    at connection.connect.err (/home/thecvill/altcongress.org/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:107:24)
+    at Connection.connectingErrorHandler (/home/thecvill/altcongress.org/node_modules/pg/lib/client.js:123:14)
+    at emitOne (events.js:115:13)
+    at Connection.emit (events.js:210:7)
+    at Socket.<anonymous> (/home/thecvill/altcongress.org/node_modules/pg/lib/connection.js:118:12)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:266:12)
+    at readableAddChunk (_stream_readable.js:253:11)
+    at Socket.Readable.push (_stream_readable.js:211:10)
+    at TCP.onread (net.js:587:20)
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+Let's use port:  56789
+2582 proffit rd %%Address
+charlottesville %%city
+va %%state
+{
+ "kind": "civicinfo#representativeInfoResponse",
+ "normalizedInput": {
+  "line1": "2582 Proffit Road",
+  "city": "Charlottesville",
+  "state": "VA",
+  "zip": "22911"
+ },
+ "divisions": {
+  "ocd-division/country:us": {
+   "name": "United States",
+   "officeIndices": [
+    0,
+    1
+   ]
+  },
+  "ocd-division/country:us/state:va": {
+   "name": "Virginia",
+   "officeIndices": [
+    2,
+    4,
+    11,
+    12
+   ]
+  },
+  "ocd-division/country:us/state:va/cd:5": {
+   "name": "Virginia's 5th congressional district",
+   "officeIndices": [
+    3
+   ]
+  },
+  "ocd-division/country:us/state:va/county:albemarle": {
+   "name": "Albemarle County",
+   "officeIndices": [
+    7,
+    8,
+    9
+   ]
+  },
+  "ocd-division/country:us/state:va/county:albemarle/council_district:rivanna": {
+   "name": "Albemarle County Board of Supervisors Rivanna District",
+   "officeIndices": [
+    10
+   ]
+  },
+  "ocd-division/country:us/state:va/sldl:58": {
+   "name": "Virginia State House district 58",
+   "officeIndices": [
+    6
+   ]
+  },
+  "ocd-division/country:us/state:va/sldu:25": {
+   "name": "Virginia State Senate district 25",
+   "officeIndices": [
+    5
+   ]
+  }
+ },
+ "offices": [
+  {
+   "name": "President of the United States",
+   "divisionId": "ocd-division/country:us",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "headOfState",
+    "headOfGovernment"
+   ],
+   "officialIndices": [
+    0
+   ]
+  },
+  {
+   "name": "Vice-President of the United States",
+   "divisionId": "ocd-division/country:us",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "deputyHeadOfGovernment"
+   ],
+   "officialIndices": [
+    1
+   ]
+  },
+  {
+   "name": "United States Senate",
+   "divisionId": "ocd-division/country:us/state:va",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    2,
+    3
+   ]
+  },
+  {
+   "name": "United States House of Representatives VA-05",
+   "divisionId": "ocd-division/country:us/state:va/cd:5",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    4
+   ]
+  },
+  {
+   "name": "Governor",
+   "divisionId": "ocd-division/country:us/state:va",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "headOfGovernment"
+   ],
+   "officialIndices": [
+    5
+   ]
+  },
+  {
+   "name": "VA State Senate District 25",
+   "divisionId": "ocd-division/country:us/state:va/sldu:25",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    6
+   ]
+  },
+  {
+   "name": "VA State House District 58",
+   "divisionId": "ocd-division/country:us/state:va/sldl:58",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    7
+   ]
+  },
+  {
+   "name": "Sheriff",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle",
+   "officialIndices": [
+    8
+   ]
+  },
+  {
+   "name": "Commonwealth's Attorney",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle",
+   "officialIndices": [
+    9
+   ]
+  },
+  {
+   "name": "Clerk of the Circuit Court",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle",
+   "officialIndices": [
+    10
+   ]
+  },
+  {
+   "name": "Board of Supervisors, District Rivanna",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle/council_district:rivanna",
+   "officialIndices": [
+    11
+   ]
+  },
+  {
+   "name": "Attorney General",
+   "divisionId": "ocd-division/country:us/state:va",
+   "officialIndices": [
+    12
+   ]
+  },
+  {
+   "name": "Lietuenant Governor",
+   "divisionId": "ocd-division/country:us/state:va",
+   "officialIndices": [
+    13
+   ]
+  }
+ ],
+ "officials": [
+  {
+   "name": "Donald J. Trump",
+   "address": [
+    {
+     "line1": "The White House",
+     "line2": "1600 Pennsylvania Avenue NW",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20500"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 456-1111"
+   ],
+   "urls": [
+    "http://www.whitehouse.gov/"
+   ],
+   "photoUrl": "https://www.whitehouse.gov/sites/whitehouse.gov/files/images/45/PE%20Color.jpg",
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "+whitehouse"
+    },
+    {
+     "type": "Facebook",
+     "id": "whitehouse"
+    },
+    {
+     "type": "Twitter",
+     "id": "potus"
+    },
+    {
+     "type": "YouTube",
+     "id": "whitehouse"
+    }
+   ]
+  },
+  {
+   "name": "Mike Pence",
+   "address": [
+    {
+     "line1": "The White House",
+     "line2": "1600 Pennsylvania Avenue NW",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20500"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 456-1111"
+   ],
+   "urls": [
+    "http://www.whitehouse.gov/"
+   ],
+   "photoUrl": "https://www.whitehouse.gov/sites/whitehouse.gov/files/images/45/VPE%20Color.jpg",
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "+whitehouse"
+    },
+    {
+     "type": "Facebook",
+     "id": "whitehouse"
+    },
+    {
+     "type": "Twitter",
+     "id": "VP"
+    }
+   ]
+  },
+  {
+   "name": "Mark R. Warner",
+   "address": [
+    {
+     "line1": "703 Hart Senate Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20510"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 224-2023"
+   ],
+   "urls": [
+    "http://warner.senate.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/W/W000805.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "MarkRWarner"
+    },
+    {
+     "type": "Twitter",
+     "id": "MarkWarner"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenatorMarkWarner"
+    },
+    {
+     "type": "YouTube",
+     "id": "MarkWarner"
+    }
+   ]
+  },
+  {
+   "name": "Tim Kaine",
+   "address": [
+    {
+     "line1": "231 Russell Senate Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20510"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 224-4024"
+   ],
+   "urls": [
+    "http://kaine.senate.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/K/K000384.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "SenatorKaine"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenKaineOffice"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenatorTimKaine"
+    }
+   ]
+  },
+  {
+   "name": "Thomas A. Garrett Jr.",
+   "address": [
+    {
+     "line1": "415 Cannon House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 225-4711"
+   ],
+   "urls": [
+    "https://tomgarrett.house.gov/"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "Congressman-Tom-Garrett-1835767753333490"
+    },
+    {
+     "type": "Twitter",
+     "id": "Rep_Tom_Garrett"
+    },
+    {
+     "type": "YouTube",
+     "id": "VoteTomVA22"
+    }
+   ]
+  },
+  {
+   "name": "Terry McAuliffe",
+   "address": [
+    {
+     "line1": "1111 East Broad Street",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(804) 786-2211"
+   ],
+   "urls": [
+    "http://www.governor.virginia.gov/"
+   ],
+   "photoUrl": "https://governor.virginia.gov/media/2125/Governor-McAuliffe.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "61634046094"
+    },
+    {
+     "type": "Twitter",
+     "id": "GovernorVA"
+    }
+   ]
+  },
+  {
+   "name": "R. Creigh Deeds",
+   "address": [
+    {
+     "line1": "1000 BANK ST RM 432",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(434) 296-5491"
+   ],
+   "urls": [
+    "http://lis.virginia.gov/cgi-bin/legp604.exe?171+mbr+S62"
+   ],
+   "photoUrl": "http://apps.lis.virginia.gov/senatepics/newbiopics/deeds25.jpg",
+   "emails": [
+    "district25@senate.virginia.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "CreighDeeds"
+    }
+   ]
+  },
+  {
+   "name": "Robert B. Bell",
+   "address": [
+    {
+     "line1": "1000 BANK ST RM 801",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(434) 245-8900"
+   ],
+   "urls": [
+    "http://lis.virginia.gov/cgi-bin/legp604.exe?171+mbr+H139"
+   ],
+   "photoUrl": "http://virginiageneralassembly.gov/house/members/photos/58.jpg",
+   "emails": [
+    "DelRBell@house.virginia.gov"
+   ],
+   "channels": [
+    {
+     "type": "YouTube",
+     "id": "delrobbell"
+    }
+   ]
+  },
+  {
+   "name": "J.E. \"Chip\" Harding",
+   "address": [
+    {
+     "line1": "411 E. High Street",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 972-4001"
+   ],
+   "urls": [
+    "http://www.albemarleso.org/Nsheriff.html"
+   ],
+   "emails": [
+    "strader@albemarle.org"
+   ]
+  },
+  {
+   "name": "Robert N. Tracci",
+   "address": [
+    {
+     "line1": "410 East High Street",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 972-4072"
+   ],
+   "urls": [
+    "http://www.albemarle.org/department.asp?department=comatty"
+   ]
+  },
+  {
+   "name": "Jon R. Zug",
+   "address": [
+    {
+     "line1": "501 East Jefferson Street",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 972-4083"
+   ],
+   "urls": [
+    "http://www.albemarle.org/page.asp?info=landrecs"
+   ],
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "101686557627089732453"
+    }
+   ]
+  },
+  {
+   "name": "Norman Dill",
+   "address": [
+    {
+     "line1": "401 McIntire Road",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 977-9981"
+   ],
+   "urls": [
+    "http://www.albemarle.org/department.asp?department=bos&relpage=3408"
+   ],
+   "emails": [
+    "ndill@albemarle.org"
+   ]
+  },
+  {
+   "name": "Mark R. Herring",
+   "address": [
+    {
+     "line1": "900 E. Main St.",
+     "line2": "6th Floor",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(804) 786-2071"
+   ],
+   "urls": [
+    "http://www.vaag.virginia.gov"
+   ]
+  },
+  {
+   "name": "Ralph S. Northam",
+   "address": [
+    {
+     "line1": "102 Governor Street",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(804) 692-0007"
+   ],
+   "urls": [
+    "http://www.ltgov.virginia.gov/"
+   ],
+   "photoUrl": "http://www.ltgov.virginia.gov/images/ltgovbio_uniform.png",
+   "emails": [
+    "ltgov@ltgov.virginia.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "LGRalphNortham"
+    },
+    {
+     "type": "Twitter",
+     "id": "RalphNortham"
+    }
+   ]
+  }
+ ]
+}
+
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+[ questions {
+    dataValues: 
+     { id: 1,
+       question: 'What is ALTcongress?',
+       answer: 'An experiment in social civics that will facilitate collaborative solutions to Americas greatest challenges.',
+       createdAt: 2017-10-17T15:17:54.962Z,
+       updatedAt: 2017-10-17T15:17:54.962Z },
+    _previousDataValues: 
+     { id: 1,
+       question: 'What is ALTcongress?',
+       answer: 'An experiment in social civics that will facilitate collaborative solutions to Americas greatest challenges.',
+       createdAt: 2017-10-17T15:17:54.962Z,
+       updatedAt: 2017-10-17T15:17:54.962Z },
+    _changed: {},
+    _modelOptions: 
+     { timestamps: true,
+       validate: {},
+       freezeTableName: false,
+       underscored: false,
+       underscoredAll: false,
+       paranoid: false,
+       rejectOnEmpty: false,
+       whereCollection: null,
+       schema: null,
+       schemaDelimiter: '',
+       defaultScope: {},
+       scopes: [],
+       hooks: {},
+       indexes: [],
+       name: [Object],
+       omitNull: false,
+       sequelize: [Object],
+       uniqueKeys: {} },
+    _options: 
+     { isNewRecord: false,
+       _schema: null,
+       _schemaDelimiter: '',
+       raw: true,
+       attributes: [Array] },
+    __eagerlyLoadedAssociations: [],
+    isNewRecord: false },
+  questions {
+    dataValues: 
+     { id: 2,
+       question: 'How do you expect to compete with a 225-year-old institution?',
+       answer: 'By harnessing the very best of the nearly 220 million Americans eligible to vote.',
+       createdAt: 2017-10-17T15:17:54.965Z,
+       updatedAt: 2017-10-17T15:17:54.965Z },
+    _previousDataValues: 
+     { id: 2,
+       question: 'How do you expect to compete with a 225-year-old institution?',
+       answer: 'By harnessing the very best of the nearly 220 million Americans eligible to vote.',
+       createdAt: 2017-10-17T15:17:54.965Z,
+       updatedAt: 2017-10-17T15:17:54.965Z },
+    _changed: {},
+    _modelOptions: 
+     { timestamps: true,
+       validate: {},
+       freezeTableName: false,
+       underscored: false,
+       underscoredAll: false,
+       paranoid: false,
+       rejectOnEmpty: false,
+       whereCollection: null,
+       schema: null,
+       schemaDelimiter: '',
+       defaultScope: {},
+       scopes: [],
+       hooks: {},
+       indexes: [],
+       name: [Object],
+       omitNull: false,
+       sequelize: [Object],
+       uniqueKeys: {} },
+    _options: 
+     { isNewRecord: false,
+       _schema: null,
+       _schemaDelimiter: '',
+       raw: true,
+       attributes: [Array] },
+    __eagerlyLoadedAssociations: [],
+    isNewRecord: false },
+  questions {
+    dataValues: 
+     { id: 3,
+       question: 'What can I do?',
+       answer: 'We are asking that you voluntarily accept a tax on your time. That you divert a small amount of your TV/internet time to better understand our government and how it works. In return we promise to make it as easy and as engaging as humanly possible.',
+       createdAt: 2017-10-17T15:17:54.966Z,
+       updatedAt: 2017-10-17T15:17:54.966Z },
+    _previousDataValues: 
+     { id: 3,
+       question: 'What can I do?',
+       answer: 'We are asking that you voluntarily accept a tax on your time. That you divert a small amount of your TV/internet time to better understand our government and how it works. In return we promise to make it as easy and as engaging as humanly possible.',
+       createdAt: 2017-10-17T15:17:54.966Z,
+       updatedAt: 2017-10-17T15:17:54.966Z },
+    _changed: {},
+    _modelOptions: 
+     { timestamps: true,
+       validate: {},
+       freezeTableName: false,
+       underscored: false,
+       underscoredAll: false,
+       paranoid: false,
+       rejectOnEmpty: false,
+       whereCollection: null,
+       schema: null,
+       schemaDelimiter: '',
+       defaultScope: {},
+       scopes: [],
+       hooks: {},
+       indexes: [],
+       name: [Object],
+       omitNull: false,
+       sequelize: [Object],
+       uniqueKeys: {} },
+    _options: 
+     { isNewRecord: false,
+       _schema: null,
+       _schemaDelimiter: '',
+       raw: true,
+       attributes: [Array] },
+    __eagerlyLoadedAssociations: [],
+    isNewRecord: false },
+  questions {
+    dataValues: 
+     { id: 4,
+       question: 'What\'s wrong with my ideology?',
+       answer: 'Nothing, so long as you remember that your ideology is a set of beliefs that may differ from others.',
+       createdAt: 2017-10-17T15:17:54.966Z,
+       updatedAt: 2017-10-17T15:17:54.966Z },
+    _previousDataValues: 
+     { id: 4,
+       question: 'What\'s wrong with my ideology?',
+       answer: 'Nothing, so long as you remember that your ideology is a set of beliefs that may differ from others.',
+       createdAt: 2017-10-17T15:17:54.966Z,
+       updatedAt: 2017-10-17T15:17:54.966Z },
+    _changed: {},
+    _modelOptions: 
+     { timestamps: true,
+       validate: {},
+       freezeTableName: false,
+       underscored: false,
+       underscoredAll: false,
+       paranoid: false,
+       rejectOnEmpty: false,
+       whereCollection: null,
+       schema: null,
+       schemaDelimiter: '',
+       defaultScope: {},
+       scopes: [],
+       hooks: {},
+       indexes: [],
+       name: [Object],
+       omitNull: false,
+       sequelize: [Object],
+       uniqueKeys: {} },
+    _options: 
+     { isNewRecord: false,
+       _schema: null,
+       _schemaDelimiter: '',
+       raw: true,
+       attributes: [Array] },
+    __eagerlyLoadedAssociations: [],
+    isNewRecord: false },
+  questions {
+    dataValues: 
+     { id: 5,
+       question: 'Is ALTcongress conservative or liberal?',
+       answer: 'Neither. However, we understand that is almost impossible to believe these days. The most important thing ALTcongress will do as an organization is to objectively facilitate a collaborative process free from any preconceived ideologies.',
+       createdAt: 2017-10-17T15:17:54.966Z,
+       updatedAt: 2017-10-17T15:17:54.966Z },
+    _previousDataValues: 
+     { id: 5,
+       question: 'Is ALTcongress conservative or liberal?',
+       answer: 'Neither. However, we understand that is almost impossible to believe these days. The most important thing ALTcongress will do as an organization is to objectively facilitate a collaborative process free from any preconceived ideologies.',
+       createdAt: 2017-10-17T15:17:54.966Z,
+       updatedAt: 2017-10-17T15:17:54.966Z },
+    _changed: {},
+    _modelOptions: 
+     { timestamps: true,
+       validate: {},
+       freezeTableName: false,
+       underscored: false,
+       underscoredAll: false,
+       paranoid: false,
+       rejectOnEmpty: false,
+       whereCollection: null,
+       schema: null,
+       schemaDelimiter: '',
+       defaultScope: {},
+       scopes: [],
+       hooks: {},
+       indexes: [],
+       name: [Object],
+       omitNull: false,
+       sequelize: [Object],
+       uniqueKeys: {} },
+    _options: 
+     { isNewRecord: false,
+       _schema: null,
+       _schemaDelimiter: '',
+       raw: true,
+       attributes: [Array] },
+    __eagerlyLoadedAssociations: [],
+    isNewRecord: false },
+  questions {
+    dataValues: 
+     { id: 6,
+       question: 'Why should I trust ALTcongress?',
+       answer: 'We promise that we will be transparent and objective in everything we do. Our goal is to build an organization that enables and empowers all voters to take back their government from special interests.',
+       createdAt: 2017-10-17T15:17:54.966Z,
+       updatedAt: 2017-10-17T15:17:54.966Z },
+    _previousDataValues: 
+     { id: 6,
+       question: 'Why should I trust ALTcongress?',
+       answer: 'We promise that we will be transparent and objective in everything we do. Our goal is to build an organization that enables and empowers all voters to take back their government from special interests.',
+       createdAt: 2017-10-17T15:17:54.966Z,
+       updatedAt: 2017-10-17T15:17:54.966Z },
+    _changed: {},
+    _modelOptions: 
+     { timestamps: true,
+       validate: {},
+       freezeTableName: false,
+       underscored: false,
+       underscoredAll: false,
+       paranoid: false,
+       rejectOnEmpty: false,
+       whereCollection: null,
+       schema: null,
+       schemaDelimiter: '',
+       defaultScope: {},
+       scopes: [],
+       hooks: {},
+       indexes: [],
+       name: [Object],
+       omitNull: false,
+       sequelize: [Object],
+       uniqueKeys: {} },
+    _options: 
+     { isNewRecord: false,
+       _schema: null,
+       _schemaDelimiter: '',
+       raw: true,
+       attributes: [Array] },
+    __eagerlyLoadedAssociations: [],
+    isNewRecord: false },
+  questions {
+    dataValues: 
+     { id: 7,
+       question: 'Why will the current Congress consider our bills?',
+       answer: 'The ALTcongress website will track the support of each and every proposed bill by congressional district. Additionally, the ALTCONGRESS team will help empower the electorate and bring pressure to bear on our elected officials.',
+       createdAt: 2017-10-17T15:17:54.967Z,
+       updatedAt: 2017-10-17T15:17:54.967Z },
+    _previousDataValues: 
+     { id: 7,
+       question: 'Why will the current Congress consider our bills?',
+       answer: 'The ALTcongress website will track the support of each and every proposed bill by congressional district. Additionally, the ALTCONGRESS team will help empower the electorate and bring pressure to bear on our elected officials.',
+       createdAt: 2017-10-17T15:17:54.967Z,
+       updatedAt: 2017-10-17T15:17:54.967Z },
+    _changed: {},
+    _modelOptions: 
+     { timestamps: true,
+       validate: {},
+       freezeTableName: false,
+       underscored: false,
+       underscoredAll: false,
+       paranoid: false,
+       rejectOnEmpty: false,
+       whereCollection: null,
+       schema: null,
+       schemaDelimiter: '',
+       defaultScope: {},
+       scopes: [],
+       hooks: {},
+       indexes: [],
+       name: [Object],
+       omitNull: false,
+       sequelize: [Object],
+       uniqueKeys: {} },
+    _options: 
+     { isNewRecord: false,
+       _schema: null,
+       _schemaDelimiter: '',
+       raw: true,
+       attributes: [Array] },
+    __eagerlyLoadedAssociations: [],
+    isNewRecord: false } ]
+[ { id: 1,
+    question: 'What is ALTcongress?',
+    answer: 'An experiment in social civics that will facilitate collaborative solutions to Americas greatest challenges.',
+    createdAt: 2017-10-17T15:17:54.962Z,
+    updatedAt: 2017-10-17T15:17:54.962Z },
+  { id: 2,
+    question: 'How do you expect to compete with a 225-year-old institution?',
+    answer: 'By harnessing the very best of the nearly 220 million Americans eligible to vote.',
+    createdAt: 2017-10-17T15:17:54.965Z,
+    updatedAt: 2017-10-17T15:17:54.965Z },
+  { id: 3,
+    question: 'What can I do?',
+    answer: 'We are asking that you voluntarily accept a tax on your time. That you divert a small amount of your TV/internet time to better understand our government and how it works. In return we promise to make it as easy and as engaging as humanly possible.',
+    createdAt: 2017-10-17T15:17:54.966Z,
+    updatedAt: 2017-10-17T15:17:54.966Z },
+  { id: 4,
+    question: 'What\'s wrong with my ideology?',
+    answer: 'Nothing, so long as you remember that your ideology is a set of beliefs that may differ from others.',
+    createdAt: 2017-10-17T15:17:54.966Z,
+    updatedAt: 2017-10-17T15:17:54.966Z },
+  { id: 5,
+    question: 'Is ALTcongress conservative or liberal?',
+    answer: 'Neither. However, we understand that is almost impossible to believe these days. The most important thing ALTcongress will do as an organization is to objectively facilitate a collaborative process free from any preconceived ideologies.',
+    createdAt: 2017-10-17T15:17:54.966Z,
+    updatedAt: 2017-10-17T15:17:54.966Z },
+  { id: 6,
+    question: 'Why should I trust ALTcongress?',
+    answer: 'We promise that we will be transparent and objective in everything we do. Our goal is to build an organization that enables and empowers all voters to take back their government from special interests.',
+    createdAt: 2017-10-17T15:17:54.966Z,
+    updatedAt: 2017-10-17T15:17:54.966Z },
+  { id: 7,
+    question: 'Why will the current Congress consider our bills?',
+    answer: 'The ALTcongress website will track the support of each and every proposed bill by congressional district. Additionally, the ALTCONGRESS team will help empower the electorate and bring pressure to bear on our elected officials.',
+    createdAt: 2017-10-17T15:17:54.967Z,
+    updatedAt: 2017-10-17T15:17:54.967Z } ]
+2582 proffit rd %%Address
+charlottesville %%city
+va %%state
+{
+ "kind": "civicinfo#representativeInfoResponse",
+ "normalizedInput": {
+  "line1": "2582 Proffit Road",
+  "city": "Charlottesville",
+  "state": "VA",
+  "zip": "22911"
+ },
+ "divisions": {
+  "ocd-division/country:us": {
+   "name": "United States",
+   "officeIndices": [
+    0,
+    1
+   ]
+  },
+  "ocd-division/country:us/state:va": {
+   "name": "Virginia",
+   "officeIndices": [
+    2,
+    4,
+    11,
+    12
+   ]
+  },
+  "ocd-division/country:us/state:va/cd:5": {
+   "name": "Virginia's 5th congressional district",
+   "officeIndices": [
+    3
+   ]
+  },
+  "ocd-division/country:us/state:va/county:albemarle": {
+   "name": "Albemarle County",
+   "officeIndices": [
+    7,
+    8,
+    9
+   ]
+  },
+  "ocd-division/country:us/state:va/county:albemarle/council_district:rivanna": {
+   "name": "Albemarle County Board of Supervisors Rivanna District",
+   "officeIndices": [
+    10
+   ]
+  },
+  "ocd-division/country:us/state:va/sldl:58": {
+   "name": "Virginia State House district 58",
+   "officeIndices": [
+    6
+   ]
+  },
+  "ocd-division/country:us/state:va/sldu:25": {
+   "name": "Virginia State Senate district 25",
+   "officeIndices": [
+    5
+   ]
+  }
+ },
+ "offices": [
+  {
+   "name": "President of the United States",
+   "divisionId": "ocd-division/country:us",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "headOfState",
+    "headOfGovernment"
+   ],
+   "officialIndices": [
+    0
+   ]
+  },
+  {
+   "name": "Vice-President of the United States",
+   "divisionId": "ocd-division/country:us",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "deputyHeadOfGovernment"
+   ],
+   "officialIndices": [
+    1
+   ]
+  },
+  {
+   "name": "United States Senate",
+   "divisionId": "ocd-division/country:us/state:va",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    2,
+    3
+   ]
+  },
+  {
+   "name": "United States House of Representatives VA-05",
+   "divisionId": "ocd-division/country:us/state:va/cd:5",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    4
+   ]
+  },
+  {
+   "name": "Governor",
+   "divisionId": "ocd-division/country:us/state:va",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "headOfGovernment"
+   ],
+   "officialIndices": [
+    5
+   ]
+  },
+  {
+   "name": "VA State Senate District 25",
+   "divisionId": "ocd-division/country:us/state:va/sldu:25",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    6
+   ]
+  },
+  {
+   "name": "VA State House District 58",
+   "divisionId": "ocd-division/country:us/state:va/sldl:58",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    7
+   ]
+  },
+  {
+   "name": "Sheriff",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle",
+   "officialIndices": [
+    8
+   ]
+  },
+  {
+   "name": "Commonwealth's Attorney",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle",
+   "officialIndices": [
+    9
+   ]
+  },
+  {
+   "name": "Clerk of the Circuit Court",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle",
+   "officialIndices": [
+    10
+   ]
+  },
+  {
+   "name": "Board of Supervisors, District Rivanna",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle/council_district:rivanna",
+   "officialIndices": [
+    11
+   ]
+  },
+  {
+   "name": "Attorney General",
+   "divisionId": "ocd-division/country:us/state:va",
+   "officialIndices": [
+    12
+   ]
+  },
+  {
+   "name": "Lietuenant Governor",
+   "divisionId": "ocd-division/country:us/state:va",
+   "officialIndices": [
+    13
+   ]
+  }
+ ],
+ "officials": [
+  {
+   "name": "Donald J. Trump",
+   "address": [
+    {
+     "line1": "The White House",
+     "line2": "1600 Pennsylvania Avenue NW",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20500"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 456-1111"
+   ],
+   "urls": [
+    "http://www.whitehouse.gov/"
+   ],
+   "photoUrl": "https://www.whitehouse.gov/sites/whitehouse.gov/files/images/45/PE%20Color.jpg",
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "+whitehouse"
+    },
+    {
+     "type": "Facebook",
+     "id": "whitehouse"
+    },
+    {
+     "type": "Twitter",
+     "id": "potus"
+    },
+    {
+     "type": "YouTube",
+     "id": "whitehouse"
+    }
+   ]
+  },
+  {
+   "name": "Mike Pence",
+   "address": [
+    {
+     "line1": "The White House",
+     "line2": "1600 Pennsylvania Avenue NW",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20500"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 456-1111"
+   ],
+   "urls": [
+    "http://www.whitehouse.gov/"
+   ],
+   "photoUrl": "https://www.whitehouse.gov/sites/whitehouse.gov/files/images/45/VPE%20Color.jpg",
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "+whitehouse"
+    },
+    {
+     "type": "Facebook",
+     "id": "whitehouse"
+    },
+    {
+     "type": "Twitter",
+     "id": "VP"
+    }
+   ]
+  },
+  {
+   "name": "Mark R. Warner",
+   "address": [
+    {
+     "line1": "703 Hart Senate Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20510"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 224-2023"
+   ],
+   "urls": [
+    "http://warner.senate.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/W/W000805.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "MarkRWarner"
+    },
+    {
+     "type": "Twitter",
+     "id": "MarkWarner"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenatorMarkWarner"
+    },
+    {
+     "type": "YouTube",
+     "id": "MarkWarner"
+    }
+   ]
+  },
+  {
+   "name": "Tim Kaine",
+   "address": [
+    {
+     "line1": "231 Russell Senate Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20510"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 224-4024"
+   ],
+   "urls": [
+    "http://kaine.senate.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/K/K000384.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "SenatorKaine"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenKaineOffice"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenatorTimKaine"
+    }
+   ]
+  },
+  {
+   "name": "Thomas A. Garrett Jr.",
+   "address": [
+    {
+     "line1": "415 Cannon House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 225-4711"
+   ],
+   "urls": [
+    "https://tomgarrett.house.gov/"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "Congressman-Tom-Garrett-1835767753333490"
+    },
+    {
+     "type": "Twitter",
+     "id": "Rep_Tom_Garrett"
+    },
+    {
+     "type": "YouTube",
+     "id": "VoteTomVA22"
+    }
+   ]
+  },
+  {
+   "name": "Terry McAuliffe",
+   "address": [
+    {
+     "line1": "1111 East Broad Street",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(804) 786-2211"
+   ],
+   "urls": [
+    "http://www.governor.virginia.gov/"
+   ],
+   "photoUrl": "https://governor.virginia.gov/media/2125/Governor-McAuliffe.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "61634046094"
+    },
+    {
+     "type": "Twitter",
+     "id": "GovernorVA"
+    }
+   ]
+  },
+  {
+   "name": "R. Creigh Deeds",
+   "address": [
+    {
+     "line1": "1000 BANK ST RM 432",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(434) 296-5491"
+   ],
+   "urls": [
+    "http://lis.virginia.gov/cgi-bin/legp604.exe?171+mbr+S62"
+   ],
+   "photoUrl": "http://apps.lis.virginia.gov/senatepics/newbiopics/deeds25.jpg",
+   "emails": [
+    "district25@senate.virginia.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "CreighDeeds"
+    }
+   ]
+  },
+  {
+   "name": "Robert B. Bell",
+   "address": [
+    {
+     "line1": "1000 BANK ST RM 801",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(434) 245-8900"
+   ],
+   "urls": [
+    "http://lis.virginia.gov/cgi-bin/legp604.exe?171+mbr+H139"
+   ],
+   "photoUrl": "http://virginiageneralassembly.gov/house/members/photos/58.jpg",
+   "emails": [
+    "DelRBell@house.virginia.gov"
+   ],
+   "channels": [
+    {
+     "type": "YouTube",
+     "id": "delrobbell"
+    }
+   ]
+  },
+  {
+   "name": "J.E. \"Chip\" Harding",
+   "address": [
+    {
+     "line1": "411 E. High Street",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 972-4001"
+   ],
+   "urls": [
+    "http://www.albemarleso.org/Nsheriff.html"
+   ],
+   "emails": [
+    "strader@albemarle.org"
+   ]
+  },
+  {
+   "name": "Robert N. Tracci",
+   "address": [
+    {
+     "line1": "410 East High Street",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 972-4072"
+   ],
+   "urls": [
+    "http://www.albemarle.org/department.asp?department=comatty"
+   ]
+  },
+  {
+   "name": "Jon R. Zug",
+   "address": [
+    {
+     "line1": "501 East Jefferson Street",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 972-4083"
+   ],
+   "urls": [
+    "http://www.albemarle.org/page.asp?info=landrecs"
+   ],
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "101686557627089732453"
+    }
+   ]
+  },
+  {
+   "name": "Norman Dill",
+   "address": [
+    {
+     "line1": "401 McIntire Road",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 977-9981"
+   ],
+   "urls": [
+    "http://www.albemarle.org/department.asp?department=bos&relpage=3408"
+   ],
+   "emails": [
+    "ndill@albemarle.org"
+   ]
+  },
+  {
+   "name": "Mark R. Herring",
+   "address": [
+    {
+     "line1": "900 E. Main St.",
+     "line2": "6th Floor",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(804) 786-2071"
+   ],
+   "urls": [
+    "http://www.vaag.virginia.gov"
+   ]
+  },
+  {
+   "name": "Ralph S. Northam",
+   "address": [
+    {
+     "line1": "102 Governor Street",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(804) 692-0007"
+   ],
+   "urls": [
+    "http://www.ltgov.virginia.gov/"
+   ],
+   "photoUrl": "http://www.ltgov.virginia.gov/images/ltgovbio_uniform.png",
+   "emails": [
+    "ltgov@ltgov.virginia.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "LGRalphNortham"
+    },
+    {
+     "type": "Twitter",
+     "id": "RalphNortham"
+    }
+   ]
+  }
+ ]
+}
+
+2582 proffit rd %%Address
+charlottesville %%city
+va %%state
+{
+ "kind": "civicinfo#representativeInfoResponse",
+ "normalizedInput": {
+  "line1": "2582 Proffit Road",
+  "city": "Charlottesville",
+  "state": "VA",
+  "zip": "22911"
+ },
+ "divisions": {
+  "ocd-division/country:us": {
+   "name": "United States",
+   "officeIndices": [
+    0,
+    1
+   ]
+  },
+  "ocd-division/country:us/state:va": {
+   "name": "Virginia",
+   "officeIndices": [
+    2,
+    4,
+    11,
+    12
+   ]
+  },
+  "ocd-division/country:us/state:va/cd:5": {
+   "name": "Virginia's 5th congressional district",
+   "officeIndices": [
+    3
+   ]
+  },
+  "ocd-division/country:us/state:va/county:albemarle": {
+   "name": "Albemarle County",
+   "officeIndices": [
+    7,
+    8,
+    9
+   ]
+  },
+  "ocd-division/country:us/state:va/county:albemarle/council_district:rivanna": {
+   "name": "Albemarle County Board of Supervisors Rivanna District",
+   "officeIndices": [
+    10
+   ]
+  },
+  "ocd-division/country:us/state:va/sldl:58": {
+   "name": "Virginia State House district 58",
+   "officeIndices": [
+    6
+   ]
+  },
+  "ocd-division/country:us/state:va/sldu:25": {
+   "name": "Virginia State Senate district 25",
+   "officeIndices": [
+    5
+   ]
+  }
+ },
+ "offices": [
+  {
+   "name": "President of the United States",
+   "divisionId": "ocd-division/country:us",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "headOfState",
+    "headOfGovernment"
+   ],
+   "officialIndices": [
+    0
+   ]
+  },
+  {
+   "name": "Vice-President of the United States",
+   "divisionId": "ocd-division/country:us",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "deputyHeadOfGovernment"
+   ],
+   "officialIndices": [
+    1
+   ]
+  },
+  {
+   "name": "United States Senate",
+   "divisionId": "ocd-division/country:us/state:va",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    2,
+    3
+   ]
+  },
+  {
+   "name": "United States House of Representatives VA-05",
+   "divisionId": "ocd-division/country:us/state:va/cd:5",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    4
+   ]
+  },
+  {
+   "name": "Governor",
+   "divisionId": "ocd-division/country:us/state:va",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "headOfGovernment"
+   ],
+   "officialIndices": [
+    5
+   ]
+  },
+  {
+   "name": "VA State Senate District 25",
+   "divisionId": "ocd-division/country:us/state:va/sldu:25",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    6
+   ]
+  },
+  {
+   "name": "VA State House District 58",
+   "divisionId": "ocd-division/country:us/state:va/sldl:58",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    7
+   ]
+  },
+  {
+   "name": "Sheriff",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle",
+   "officialIndices": [
+    8
+   ]
+  },
+  {
+   "name": "Commonwealth's Attorney",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle",
+   "officialIndices": [
+    9
+   ]
+  },
+  {
+   "name": "Clerk of the Circuit Court",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle",
+   "officialIndices": [
+    10
+   ]
+  },
+  {
+   "name": "Board of Supervisors, District Rivanna",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle/council_district:rivanna",
+   "officialIndices": [
+    11
+   ]
+  },
+  {
+   "name": "Attorney General",
+   "divisionId": "ocd-division/country:us/state:va",
+   "officialIndices": [
+    12
+   ]
+  },
+  {
+   "name": "Lietuenant Governor",
+   "divisionId": "ocd-division/country:us/state:va",
+   "officialIndices": [
+    13
+   ]
+  }
+ ],
+ "officials": [
+  {
+   "name": "Donald J. Trump",
+   "address": [
+    {
+     "line1": "The White House",
+     "line2": "1600 Pennsylvania Avenue NW",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20500"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 456-1111"
+   ],
+   "urls": [
+    "http://www.whitehouse.gov/"
+   ],
+   "photoUrl": "https://www.whitehouse.gov/sites/whitehouse.gov/files/images/45/PE%20Color.jpg",
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "+whitehouse"
+    },
+    {
+     "type": "Facebook",
+     "id": "whitehouse"
+    },
+    {
+     "type": "Twitter",
+     "id": "potus"
+    },
+    {
+     "type": "YouTube",
+     "id": "whitehouse"
+    }
+   ]
+  },
+  {
+   "name": "Mike Pence",
+   "address": [
+    {
+     "line1": "The White House",
+     "line2": "1600 Pennsylvania Avenue NW",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20500"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 456-1111"
+   ],
+   "urls": [
+    "http://www.whitehouse.gov/"
+   ],
+   "photoUrl": "https://www.whitehouse.gov/sites/whitehouse.gov/files/images/45/VPE%20Color.jpg",
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "+whitehouse"
+    },
+    {
+     "type": "Facebook",
+     "id": "whitehouse"
+    },
+    {
+     "type": "Twitter",
+     "id": "VP"
+    }
+   ]
+  },
+  {
+   "name": "Mark R. Warner",
+   "address": [
+    {
+     "line1": "703 Hart Senate Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20510"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 224-2023"
+   ],
+   "urls": [
+    "http://warner.senate.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/W/W000805.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "MarkRWarner"
+    },
+    {
+     "type": "Twitter",
+     "id": "MarkWarner"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenatorMarkWarner"
+    },
+    {
+     "type": "YouTube",
+     "id": "MarkWarner"
+    }
+   ]
+  },
+  {
+   "name": "Tim Kaine",
+   "address": [
+    {
+     "line1": "231 Russell Senate Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20510"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 224-4024"
+   ],
+   "urls": [
+    "http://kaine.senate.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/K/K000384.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "SenatorKaine"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenKaineOffice"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenatorTimKaine"
+    }
+   ]
+  },
+  {
+   "name": "Thomas A. Garrett Jr.",
+   "address": [
+    {
+     "line1": "415 Cannon House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 225-4711"
+   ],
+   "urls": [
+    "https://tomgarrett.house.gov/"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "Congressman-Tom-Garrett-1835767753333490"
+    },
+    {
+     "type": "Twitter",
+     "id": "Rep_Tom_Garrett"
+    },
+    {
+     "type": "YouTube",
+     "id": "VoteTomVA22"
+    }
+   ]
+  },
+  {
+   "name": "Terry McAuliffe",
+   "address": [
+    {
+     "line1": "1111 East Broad Street",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(804) 786-2211"
+   ],
+   "urls": [
+    "http://www.governor.virginia.gov/"
+   ],
+   "photoUrl": "https://governor.virginia.gov/media/2125/Governor-McAuliffe.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "61634046094"
+    },
+    {
+     "type": "Twitter",
+     "id": "GovernorVA"
+    }
+   ]
+  },
+  {
+   "name": "R. Creigh Deeds",
+   "address": [
+    {
+     "line1": "1000 BANK ST RM 432",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(434) 296-5491"
+   ],
+   "urls": [
+    "http://lis.virginia.gov/cgi-bin/legp604.exe?171+mbr+S62"
+   ],
+   "photoUrl": "http://apps.lis.virginia.gov/senatepics/newbiopics/deeds25.jpg",
+   "emails": [
+    "district25@senate.virginia.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "CreighDeeds"
+    }
+   ]
+  },
+  {
+   "name": "Robert B. Bell",
+   "address": [
+    {
+     "line1": "1000 BANK ST RM 801",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(434) 245-8900"
+   ],
+   "urls": [
+    "http://lis.virginia.gov/cgi-bin/legp604.exe?171+mbr+H139"
+   ],
+   "photoUrl": "http://virginiageneralassembly.gov/house/members/photos/58.jpg",
+   "emails": [
+    "DelRBell@house.virginia.gov"
+   ],
+   "channels": [
+    {
+     "type": "YouTube",
+     "id": "delrobbell"
+    }
+   ]
+  },
+  {
+   "name": "J.E. \"Chip\" Harding",
+   "address": [
+    {
+     "line1": "411 E. High Street",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 972-4001"
+   ],
+   "urls": [
+    "http://www.albemarleso.org/Nsheriff.html"
+   ],
+   "emails": [
+    "strader@albemarle.org"
+   ]
+  },
+  {
+   "name": "Robert N. Tracci",
+   "address": [
+    {
+     "line1": "410 East High Street",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 972-4072"
+   ],
+   "urls": [
+    "http://www.albemarle.org/department.asp?department=comatty"
+   ]
+  },
+  {
+   "name": "Jon R. Zug",
+   "address": [
+    {
+     "line1": "501 East Jefferson Street",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 972-4083"
+   ],
+   "urls": [
+    "http://www.albemarle.org/page.asp?info=landrecs"
+   ],
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "101686557627089732453"
+    }
+   ]
+  },
+  {
+   "name": "Norman Dill",
+   "address": [
+    {
+     "line1": "401 McIntire Road",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 977-9981"
+   ],
+   "urls": [
+    "http://www.albemarle.org/department.asp?department=bos&relpage=3408"
+   ],
+   "emails": [
+    "ndill@albemarle.org"
+   ]
+  },
+  {
+   "name": "Mark R. Herring",
+   "address": [
+    {
+     "line1": "900 E. Main St.",
+     "line2": "6th Floor",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(804) 786-2071"
+   ],
+   "urls": [
+    "http://www.vaag.virginia.gov"
+   ]
+  },
+  {
+   "name": "Ralph S. Northam",
+   "address": [
+    {
+     "line1": "102 Governor Street",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(804) 692-0007"
+   ],
+   "urls": [
+    "http://www.ltgov.virginia.gov/"
+   ],
+   "photoUrl": "http://www.ltgov.virginia.gov/images/ltgovbio_uniform.png",
+   "emails": [
+    "ltgov@ltgov.virginia.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "LGRalphNortham"
+    },
+    {
+     "type": "Twitter",
+     "id": "RalphNortham"
+    }
+   ]
+  }
+ ]
+}
+
+2582 proffit rd %%Address
+charlottesville %%city
+va %%state
+{
+ "kind": "civicinfo#representativeInfoResponse",
+ "normalizedInput": {
+  "line1": "2582 Proffit Road",
+  "city": "Charlottesville",
+  "state": "VA",
+  "zip": "22911"
+ },
+ "divisions": {
+  "ocd-division/country:us": {
+   "name": "United States",
+   "officeIndices": [
+    0,
+    1
+   ]
+  },
+  "ocd-division/country:us/state:va": {
+   "name": "Virginia",
+   "officeIndices": [
+    2,
+    4,
+    11,
+    12
+   ]
+  },
+  "ocd-division/country:us/state:va/cd:5": {
+   "name": "Virginia's 5th congressional district",
+   "officeIndices": [
+    3
+   ]
+  },
+  "ocd-division/country:us/state:va/county:albemarle": {
+   "name": "Albemarle County",
+   "officeIndices": [
+    7,
+    8,
+    9
+   ]
+  },
+  "ocd-division/country:us/state:va/county:albemarle/council_district:rivanna": {
+   "name": "Albemarle County Board of Supervisors Rivanna District",
+   "officeIndices": [
+    10
+   ]
+  },
+  "ocd-division/country:us/state:va/sldl:58": {
+   "name": "Virginia State House district 58",
+   "officeIndices": [
+    6
+   ]
+  },
+  "ocd-division/country:us/state:va/sldu:25": {
+   "name": "Virginia State Senate district 25",
+   "officeIndices": [
+    5
+   ]
+  }
+ },
+ "offices": [
+  {
+   "name": "President of the United States",
+   "divisionId": "ocd-division/country:us",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "headOfState",
+    "headOfGovernment"
+   ],
+   "officialIndices": [
+    0
+   ]
+  },
+  {
+   "name": "Vice-President of the United States",
+   "divisionId": "ocd-division/country:us",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "deputyHeadOfGovernment"
+   ],
+   "officialIndices": [
+    1
+   ]
+  },
+  {
+   "name": "United States Senate",
+   "divisionId": "ocd-division/country:us/state:va",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    2,
+    3
+   ]
+  },
+  {
+   "name": "United States House of Representatives VA-05",
+   "divisionId": "ocd-division/country:us/state:va/cd:5",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    4
+   ]
+  },
+  {
+   "name": "Governor",
+   "divisionId": "ocd-division/country:us/state:va",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "headOfGovernment"
+   ],
+   "officialIndices": [
+    5
+   ]
+  },
+  {
+   "name": "VA State Senate District 25",
+   "divisionId": "ocd-division/country:us/state:va/sldu:25",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    6
+   ]
+  },
+  {
+   "name": "VA State House District 58",
+   "divisionId": "ocd-division/country:us/state:va/sldl:58",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    7
+   ]
+  },
+  {
+   "name": "Sheriff",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle",
+   "officialIndices": [
+    8
+   ]
+  },
+  {
+   "name": "Commonwealth's Attorney",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle",
+   "officialIndices": [
+    9
+   ]
+  },
+  {
+   "name": "Clerk of the Circuit Court",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle",
+   "officialIndices": [
+    10
+   ]
+  },
+  {
+   "name": "Board of Supervisors, District Rivanna",
+   "divisionId": "ocd-division/country:us/state:va/county:albemarle/council_district:rivanna",
+   "officialIndices": [
+    11
+   ]
+  },
+  {
+   "name": "Attorney General",
+   "divisionId": "ocd-division/country:us/state:va",
+   "officialIndices": [
+    12
+   ]
+  },
+  {
+   "name": "Lietuenant Governor",
+   "divisionId": "ocd-division/country:us/state:va",
+   "officialIndices": [
+    13
+   ]
+  }
+ ],
+ "officials": [
+  {
+   "name": "Donald J. Trump",
+   "address": [
+    {
+     "line1": "The White House",
+     "line2": "1600 Pennsylvania Avenue NW",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20500"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 456-1111"
+   ],
+   "urls": [
+    "http://www.whitehouse.gov/"
+   ],
+   "photoUrl": "https://www.whitehouse.gov/sites/whitehouse.gov/files/images/45/PE%20Color.jpg",
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "+whitehouse"
+    },
+    {
+     "type": "Facebook",
+     "id": "whitehouse"
+    },
+    {
+     "type": "Twitter",
+     "id": "potus"
+    },
+    {
+     "type": "YouTube",
+     "id": "whitehouse"
+    }
+   ]
+  },
+  {
+   "name": "Mike Pence",
+   "address": [
+    {
+     "line1": "The White House",
+     "line2": "1600 Pennsylvania Avenue NW",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20500"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 456-1111"
+   ],
+   "urls": [
+    "http://www.whitehouse.gov/"
+   ],
+   "photoUrl": "https://www.whitehouse.gov/sites/whitehouse.gov/files/images/45/VPE%20Color.jpg",
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "+whitehouse"
+    },
+    {
+     "type": "Facebook",
+     "id": "whitehouse"
+    },
+    {
+     "type": "Twitter",
+     "id": "VP"
+    }
+   ]
+  },
+  {
+   "name": "Mark R. Warner",
+   "address": [
+    {
+     "line1": "703 Hart Senate Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20510"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 224-2023"
+   ],
+   "urls": [
+    "http://warner.senate.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/W/W000805.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "MarkRWarner"
+    },
+    {
+     "type": "Twitter",
+     "id": "MarkWarner"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenatorMarkWarner"
+    },
+    {
+     "type": "YouTube",
+     "id": "MarkWarner"
+    }
+   ]
+  },
+  {
+   "name": "Tim Kaine",
+   "address": [
+    {
+     "line1": "231 Russell Senate Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20510"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 224-4024"
+   ],
+   "urls": [
+    "http://kaine.senate.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/K/K000384.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "SenatorKaine"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenKaineOffice"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenatorTimKaine"
+    }
+   ]
+  },
+  {
+   "name": "Thomas A. Garrett Jr.",
+   "address": [
+    {
+     "line1": "415 Cannon House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 225-4711"
+   ],
+   "urls": [
+    "https://tomgarrett.house.gov/"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "Congressman-Tom-Garrett-1835767753333490"
+    },
+    {
+     "type": "Twitter",
+     "id": "Rep_Tom_Garrett"
+    },
+    {
+     "type": "YouTube",
+     "id": "VoteTomVA22"
+    }
+   ]
+  },
+  {
+   "name": "Terry McAuliffe",
+   "address": [
+    {
+     "line1": "1111 East Broad Street",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(804) 786-2211"
+   ],
+   "urls": [
+    "http://www.governor.virginia.gov/"
+   ],
+   "photoUrl": "https://governor.virginia.gov/media/2125/Governor-McAuliffe.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "61634046094"
+    },
+    {
+     "type": "Twitter",
+     "id": "GovernorVA"
+    }
+   ]
+  },
+  {
+   "name": "R. Creigh Deeds",
+   "address": [
+    {
+     "line1": "1000 BANK ST RM 432",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(434) 296-5491"
+   ],
+   "urls": [
+    "http://lis.virginia.gov/cgi-bin/legp604.exe?171+mbr+S62"
+   ],
+   "photoUrl": "http://apps.lis.virginia.gov/senatepics/newbiopics/deeds25.jpg",
+   "emails": [
+    "district25@senate.virginia.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "CreighDeeds"
+    }
+   ]
+  },
+  {
+   "name": "Robert B. Bell",
+   "address": [
+    {
+     "line1": "1000 BANK ST RM 801",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(434) 245-8900"
+   ],
+   "urls": [
+    "http://lis.virginia.gov/cgi-bin/legp604.exe?171+mbr+H139"
+   ],
+   "photoUrl": "http://virginiageneralassembly.gov/house/members/photos/58.jpg",
+   "emails": [
+    "DelRBell@house.virginia.gov"
+   ],
+   "channels": [
+    {
+     "type": "YouTube",
+     "id": "delrobbell"
+    }
+   ]
+  },
+  {
+   "name": "J.E. \"Chip\" Harding",
+   "address": [
+    {
+     "line1": "411 E. High Street",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 972-4001"
+   ],
+   "urls": [
+    "http://www.albemarleso.org/Nsheriff.html"
+   ],
+   "emails": [
+    "strader@albemarle.org"
+   ]
+  },
+  {
+   "name": "Robert N. Tracci",
+   "address": [
+    {
+     "line1": "410 East High Street",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 972-4072"
+   ],
+   "urls": [
+    "http://www.albemarle.org/department.asp?department=comatty"
+   ]
+  },
+  {
+   "name": "Jon R. Zug",
+   "address": [
+    {
+     "line1": "501 East Jefferson Street",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 972-4083"
+   ],
+   "urls": [
+    "http://www.albemarle.org/page.asp?info=landrecs"
+   ],
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "101686557627089732453"
+    }
+   ]
+  },
+  {
+   "name": "Norman Dill",
+   "address": [
+    {
+     "line1": "401 McIntire Road",
+     "city": "Charlottesville",
+     "state": "VA",
+     "zip": "22902"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(434) 977-9981"
+   ],
+   "urls": [
+    "http://www.albemarle.org/department.asp?department=bos&relpage=3408"
+   ],
+   "emails": [
+    "ndill@albemarle.org"
+   ]
+  },
+  {
+   "name": "Mark R. Herring",
+   "address": [
+    {
+     "line1": "900 E. Main St.",
+     "line2": "6th Floor",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(804) 786-2071"
+   ],
+   "urls": [
+    "http://www.vaag.virginia.gov"
+   ]
+  },
+  {
+   "name": "Ralph S. Northam",
+   "address": [
+    {
+     "line1": "102 Governor Street",
+     "city": "Richmond",
+     "state": "VA",
+     "zip": "23219"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(804) 692-0007"
+   ],
+   "urls": [
+    "http://www.ltgov.virginia.gov/"
+   ],
+   "photoUrl": "http://www.ltgov.virginia.gov/images/ltgovbio_uniform.png",
+   "emails": [
+    "ltgov@ltgov.virginia.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "LGRalphNortham"
+    },
+    {
+     "type": "Twitter",
+     "id": "RalphNortham"
+    }
+   ]
+  }
+ ]
+}
+
+
+> frontend@1.0.0 start /home/thecvill/altcongress.org
+> node server.js
+
+Let's use port:  56789
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+2582+Proffit+Rd. %%Address
+Charlottesville %%city
+VA %%state
+connecting
+[]
+Executing (default): SELECT "id", "first_name", "last_name", "email", "party", "gender", "zip", "address", "State", "district", "i_vote", "i_fund", "i_join", "verified", "city", "createdAt", "updatedAt" FROM "users" AS "users";
+[ { id: 1,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-15T00:40:37.306Z,
+    updatedAt: 2017-09-15T00:40:37.306Z },
+  { id: 2,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-15T00:41:32.879Z,
+    updatedAt: 2017-09-15T00:41:32.879Z },
+  { id: 3,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-20T18:30:47.615Z,
+    updatedAt: 2017-09-20T18:30:47.615Z },
+  { id: 4,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-20T18:46:38.332Z,
+    updatedAt: 2017-09-20T18:46:38.332Z },
+  { id: 5,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-20T18:48:17.148Z,
+    updatedAt: 2017-09-20T18:48:17.148Z },
+  { id: 6,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-20T18:50:47.181Z,
+    updatedAt: 2017-09-20T18:50:47.181Z },
+  { id: 7,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-20T18:51:50.676Z,
+    updatedAt: 2017-09-20T18:51:50.676Z },
+  { id: 8,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-20T18:53:57.576Z,
+    updatedAt: 2017-09-20T18:53:57.576Z },
+  { id: 9,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-20T19:36:04.633Z,
+    updatedAt: 2017-09-20T19:36:04.633Z },
+  { id: 10,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T01:25:28.640Z,
+    updatedAt: 2017-09-29T01:25:28.640Z },
+  { id: 11,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T01:38:36.529Z,
+    updatedAt: 2017-09-29T01:38:36.529Z },
+  { id: 12,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T01:38:59.307Z,
+    updatedAt: 2017-09-29T01:38:59.307Z },
+  { id: 13,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T01:39:17.850Z,
+    updatedAt: 2017-09-29T01:39:17.850Z },
+  { id: 14,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T01:39:30.136Z,
+    updatedAt: 2017-09-29T01:39:30.136Z },
+  { id: 15,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T01:41:45.988Z,
+    updatedAt: 2017-09-29T01:41:45.988Z },
+  { id: 16,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T01:42:21.609Z,
+    updatedAt: 2017-09-29T01:42:21.609Z },
+  { id: 17,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T01:56:13.071Z,
+    updatedAt: 2017-09-29T01:56:13.071Z },
+  { id: 18,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T02:03:02.091Z,
+    updatedAt: 2017-09-29T02:03:02.091Z },
+  { id: 19,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T13:00:00.121Z,
+    updatedAt: 2017-09-29T13:00:00.121Z },
+  { id: 20,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T13:00:21.691Z,
+    updatedAt: 2017-09-29T13:00:21.691Z },
+  { id: 21,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T13:01:30.607Z,
+    updatedAt: 2017-09-29T13:01:30.607Z },
+  { id: 22,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T13:01:39.136Z,
+    updatedAt: 2017-09-29T13:01:39.136Z },
+  { id: 23,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T13:02:07.569Z,
+    updatedAt: 2017-09-29T13:02:07.569Z },
+  { id: 24,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T13:03:03.558Z,
+    updatedAt: 2017-09-29T13:03:03.558Z },
+  { id: 25,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T13:03:07.362Z,
+    updatedAt: 2017-09-29T13:03:07.362Z },
+  { id: 26,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T13:03:25.847Z,
+    updatedAt: 2017-09-29T13:03:25.847Z },
+  { id: 27,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T13:04:27.342Z,
+    updatedAt: 2017-09-29T13:04:27.342Z },
+  { id: 28,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T13:04:39.021Z,
+    updatedAt: 2017-09-29T13:04:39.021Z },
+  { id: 29,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T13:06:35.120Z,
+    updatedAt: 2017-09-29T13:06:35.120Z },
+  { id: 30,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T13:07:07.042Z,
+    updatedAt: 2017-09-29T13:07:07.042Z },
+  { id: 31,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T13:08:10.731Z,
+    updatedAt: 2017-09-29T13:08:10.731Z },
+  { id: 32,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T19:02:17.513Z,
+    updatedAt: 2017-09-29T19:02:17.513Z },
+  { id: 33,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-10-12T16:35:10.858Z,
+    updatedAt: 2017-10-12T16:35:10.858Z },
+  { id: 34,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-10-16T14:04:37.354Z,
+    updatedAt: 2017-10-16T14:04:37.354Z },
+  { id: 35,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-10-16T14:05:32.797Z,
+    updatedAt: 2017-10-16T14:05:32.797Z },
+  { id: 36,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-10-16T14:09:34.915Z,
+    updatedAt: 2017-10-16T14:09:34.915Z },
+  { id: 37,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'todd.gerdy@gmail.com',
+    party: null,
+    gender: null,
+    zip: '22911',
+    address: '2582 Proffit Rd.',
+    State: 'VA',
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: 'Charlottesville',
+    createdAt: 2017-10-17T14:11:04.577Z,
+    updatedAt: 2017-10-17T14:11:04.577Z },
+  { id: 38,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: '',
+    party: null,
+    gender: null,
+    zip: '22911',
+    address: '1011 Linden Ave',
+    State: 'VA',
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: 'Charlottesville',
+    createdAt: 2017-10-17T14:13:41.055Z,
+    updatedAt: 2017-10-17T14:13:41.055Z },
+  { id: 39,
+    first_name: 'Alicia',
+    last_name: 'Gerdy',
+    email: 'alicia.carlson.gerdy@gmail.com',
+    party: null,
+    gender: 'F',
+    zip: '22911',
+    address: '2582 Proffit Rd.',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: null,
+    i_join: true,
+    verified: null,
+    city: 'Charlottesville',
+    createdAt: 2017-10-17T16:59:39.086Z,
+    updatedAt: 2017-10-17T16:59:39.086Z },
+  { id: 40,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'todd.gerdy@gmail.com',
+    party: null,
+    gender: 'm',
+    zip: '22911',
+    address: '2582 Proffit Rd.',
+    State: 'VA',
+    district: 'Virginia\'s 5th congressional district',
+    i_vote: true,
+    i_fund: true,
+    i_join: null,
+    verified: null,
+    city: 'Charlottesville',
+    createdAt: 2017-10-18T20:26:53.227Z,
+    updatedAt: 2017-10-18T20:26:53.227Z } ]
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+create new user { first_name: 'Todd',
+  last_name: 'Gerdy',
+  email: 'todd.gerdy@gmail.com',
+  city: 'Charlottesville',
+  State: 'VA',
+  address: '2582 Proffit Rd' }
+Executing (default): INSERT INTO "users" ("id","first_name","last_name","email","address","State","city","createdAt","updatedAt") VALUES (DEFAULT,'Todd','Gerdy','todd.gerdy@gmail.com','2582 Proffit Rd','VA','Charlottesville','2017-10-19 14:25:25.350 +00:00','2017-10-19 14:25:25.350 +00:00') RETURNING *;
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+3555+Round+Hill+Rd %%Address
+Lynchburg %%city
+VT %%state
+3555+Round+Hill+Rd %%Address
+Lynchburg %%city
+VA %%state
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+po+box+5169 %%Address
+Sioux+Falls %%city
+SC %%state
+po+box+5169 %%Address
+Sioux+Falls %%city
+SD %%state
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+5120+Partridge+St %%Address
+Durham %%city
+NC %%state
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+2582+Proffit+Rd. %%Address
+Charlottesville %%city
+VT %%state
+2582+Proffit+Rd. %%Address
+Charlottesville %%city
+VA %%state
+create new user { first_name: 'Todd',
+  last_name: 'Gerdy',
+  email: 'todd.gerdy@gmail.com',
+  address: '2582 Proffit Rd.',
+  city: 'Charlottesville',
+  State: 'VA',
+  zip: '22911',
+  district: 'Virginia\'s 5th congressional district',
+  i_join: true,
+  i_vote: true,
+  i_fund: true }
+Executing (default): INSERT INTO "users" ("id","first_name","last_name","email","zip","address","State","district","i_vote","i_fund","i_join","city","createdAt","updatedAt") VALUES (DEFAULT,'Todd','Gerdy','todd.gerdy@gmail.com','22911','2582 Proffit Rd.','VA','Virginia''s 5th congressional district',true,true,true,'Charlottesville','2017-10-19 15:03:24.257 +00:00','2017-10-19 15:03:24.257 +00:00') RETURNING *;
+connecting
+[]
+Executing (default): SELECT "id", "first_name", "last_name", "email", "party", "gender", "zip", "address", "State", "district", "i_vote", "i_fund", "i_join", "verified", "city", "createdAt", "updatedAt" FROM "users" AS "users";
+[ { id: 1,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-15T00:40:37.306Z,
+    updatedAt: 2017-09-15T00:40:37.306Z },
+  { id: 2,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-15T00:41:32.879Z,
+    updatedAt: 2017-09-15T00:41:32.879Z },
+  { id: 3,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-20T18:30:47.615Z,
+    updatedAt: 2017-09-20T18:30:47.615Z },
+  { id: 4,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-20T18:46:38.332Z,
+    updatedAt: 2017-09-20T18:46:38.332Z },
+  { id: 5,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-20T18:48:17.148Z,
+    updatedAt: 2017-09-20T18:48:17.148Z },
+  { id: 6,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-20T18:50:47.181Z,
+    updatedAt: 2017-09-20T18:50:47.181Z },
+  { id: 7,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-20T18:51:50.676Z,
+    updatedAt: 2017-09-20T18:51:50.676Z },
+  { id: 8,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-20T18:53:57.576Z,
+    updatedAt: 2017-09-20T18:53:57.576Z },
+  { id: 9,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-20T19:36:04.633Z,
+    updatedAt: 2017-09-20T19:36:04.633Z },
+  { id: 10,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T01:25:28.640Z,
+    updatedAt: 2017-09-29T01:25:28.640Z },
+  { id: 11,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T01:38:36.529Z,
+    updatedAt: 2017-09-29T01:38:36.529Z },
+  { id: 12,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T01:38:59.307Z,
+    updatedAt: 2017-09-29T01:38:59.307Z },
+  { id: 13,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T01:39:17.850Z,
+    updatedAt: 2017-09-29T01:39:17.850Z },
+  { id: 14,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T01:39:30.136Z,
+    updatedAt: 2017-09-29T01:39:30.136Z },
+  { id: 15,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T01:41:45.988Z,
+    updatedAt: 2017-09-29T01:41:45.988Z },
+  { id: 16,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T01:42:21.609Z,
+    updatedAt: 2017-09-29T01:42:21.609Z },
+  { id: 17,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T01:56:13.071Z,
+    updatedAt: 2017-09-29T01:56:13.071Z },
+  { id: 18,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T02:03:02.091Z,
+    updatedAt: 2017-09-29T02:03:02.091Z },
+  { id: 19,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T13:00:00.121Z,
+    updatedAt: 2017-09-29T13:00:00.121Z },
+  { id: 20,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T13:00:21.691Z,
+    updatedAt: 2017-09-29T13:00:21.691Z },
+  { id: 21,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T13:01:30.607Z,
+    updatedAt: 2017-09-29T13:01:30.607Z },
+  { id: 22,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T13:01:39.136Z,
+    updatedAt: 2017-09-29T13:01:39.136Z },
+  { id: 23,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T13:02:07.569Z,
+    updatedAt: 2017-09-29T13:02:07.569Z },
+  { id: 24,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T13:03:03.558Z,
+    updatedAt: 2017-09-29T13:03:03.558Z },
+  { id: 25,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T13:03:07.362Z,
+    updatedAt: 2017-09-29T13:03:07.362Z },
+  { id: 26,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T13:03:25.847Z,
+    updatedAt: 2017-09-29T13:03:25.847Z },
+  { id: 27,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T13:04:27.342Z,
+    updatedAt: 2017-09-29T13:04:27.342Z },
+  { id: 28,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T13:04:39.021Z,
+    updatedAt: 2017-09-29T13:04:39.021Z },
+  { id: 29,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T13:06:35.120Z,
+    updatedAt: 2017-09-29T13:06:35.120Z },
+  { id: 30,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T13:07:07.042Z,
+    updatedAt: 2017-09-29T13:07:07.042Z },
+  { id: 31,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-09-29T13:08:10.731Z,
+    updatedAt: 2017-09-29T13:08:10.731Z },
+  { id: 32,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-09-29T19:02:17.513Z,
+    updatedAt: 2017-09-29T19:02:17.513Z },
+  { id: 33,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'abc@123.com',
+    party: 'n',
+    gender: 'm',
+    zip: '22911',
+    address: '2468 Preciate Rd',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: true,
+    city: 'Charlottesville',
+    createdAt: 2017-10-12T16:35:10.858Z,
+    updatedAt: 2017-10-12T16:35:10.858Z },
+  { id: 34,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-10-16T14:04:37.354Z,
+    updatedAt: 2017-10-16T14:04:37.354Z },
+  { id: 35,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-10-16T14:05:32.797Z,
+    updatedAt: 2017-10-16T14:05:32.797Z },
+  { id: 36,
+    first_name: null,
+    last_name: null,
+    email: null,
+    party: null,
+    gender: null,
+    zip: null,
+    address: null,
+    State: null,
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: null,
+    createdAt: 2017-10-16T14:09:34.915Z,
+    updatedAt: 2017-10-16T14:09:34.915Z },
+  { id: 37,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'todd.gerdy@gmail.com',
+    party: null,
+    gender: null,
+    zip: '22911',
+    address: '2582 Proffit Rd.',
+    State: 'VA',
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: 'Charlottesville',
+    createdAt: 2017-10-17T14:11:04.577Z,
+    updatedAt: 2017-10-17T14:11:04.577Z },
+  { id: 38,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: '',
+    party: null,
+    gender: null,
+    zip: '22911',
+    address: '1011 Linden Ave',
+    State: 'VA',
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: 'Charlottesville',
+    createdAt: 2017-10-17T14:13:41.055Z,
+    updatedAt: 2017-10-17T14:13:41.055Z },
+  { id: 39,
+    first_name: 'Alicia',
+    last_name: 'Gerdy',
+    email: 'alicia.carlson.gerdy@gmail.com',
+    party: null,
+    gender: 'F',
+    zip: '22911',
+    address: '2582 Proffit Rd.',
+    State: 'VA',
+    district: '5',
+    i_vote: true,
+    i_fund: null,
+    i_join: true,
+    verified: null,
+    city: 'Charlottesville',
+    createdAt: 2017-10-17T16:59:39.086Z,
+    updatedAt: 2017-10-17T16:59:39.086Z },
+  { id: 40,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'todd.gerdy@gmail.com',
+    party: null,
+    gender: 'm',
+    zip: '22911',
+    address: '2582 Proffit Rd.',
+    State: 'VA',
+    district: 'Virginia\'s 5th congressional district',
+    i_vote: true,
+    i_fund: true,
+    i_join: null,
+    verified: null,
+    city: 'Charlottesville',
+    createdAt: 2017-10-18T20:26:53.227Z,
+    updatedAt: 2017-10-18T20:26:53.227Z },
+  { id: 41,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'todd.gerdy@gmail.com',
+    party: null,
+    gender: null,
+    zip: null,
+    address: '2582 Proffit Rd',
+    State: 'VA',
+    district: null,
+    i_vote: null,
+    i_fund: null,
+    i_join: null,
+    verified: null,
+    city: 'Charlottesville',
+    createdAt: 2017-10-19T14:25:25.350Z,
+    updatedAt: 2017-10-19T14:25:25.350Z },
+  { id: 42,
+    first_name: 'Todd',
+    last_name: 'Gerdy',
+    email: 'todd.gerdy@gmail.com',
+    party: null,
+    gender: null,
+    zip: '22911',
+    address: '2582 Proffit Rd.',
+    State: 'VA',
+    district: 'Virginia\'s 5th congressional district',
+    i_vote: true,
+    i_fund: true,
+    i_join: true,
+    verified: null,
+    city: 'Charlottesville',
+    createdAt: 2017-10-19T15:03:24.257Z,
+    updatedAt: 2017-10-19T15:03:24.257Z } ]
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
+finding questions
+[]
+Executing (default): SELECT "id", "question", "answer", "createdAt", "updatedAt" FROM "questions" AS "questions";
