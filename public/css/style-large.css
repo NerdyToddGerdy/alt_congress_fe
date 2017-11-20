@@ -3,3 +3,22 @@
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
+
+.p-p-d {
+  justify-content: space-evenly;
+}
+.p-p-d p {
+  width: 19em;
+}
+.p-p-d div {
+  padding: 0;
+}
+#details-subheader {
+    font-size: 2.25em;
+    padding-left: 5em;
+    margin-top: -0.3em;
+    font-family: Raleway;
+}
+form{
+  width: 50%;
+}

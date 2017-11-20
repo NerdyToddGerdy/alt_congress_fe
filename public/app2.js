@@ -8,6 +8,16 @@ console.log('app2 is a go');
 var app = angular.module('altCong', ["ngRoute"]);
 myURL = 'http://localhost:56789';
 
+app.config(($routeProvider) => {
+  $routeProvider
+  .when('/', {
+    templateUrl : "./partials/main.html"
+  })
+  .when('/pitch', {
+    // templateUrl : "./partials/main.html"
+  });
+});
+
 app.controller('mainController', ['$http', function($http) {
     this.users = [];
     this.qand_as = [];

@@ -67,3 +67,34 @@
 	#banner {
 		padding: 8em 2em 8em;
 	}
+
+	/*My Changes*/
+	#details-header {
+		font-size: 4em;
+    width: 6em;
+	}
+	#details-subheader {
+		width: 11em;
+	}
+	header.major {
+		margin: 0;
+	}
+
+	.first-details p {
+		padding: 0;
+	}
+	#p-p-d-header{
+		padding: 0;
+	}
+
+	.p-p-d p {
+		width: 92%;
+	}
+	#how-list li{
+		width: 82%
+	}
+
+	.answer{
+		width: 100%;
+		padding: 0;
+	}

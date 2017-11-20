@@ -130,3 +130,41 @@
 	#footer .icons {
 		text-align: center;
 	}
+
+
+	/*My changes*/
+
+	#details-header {
+		font-size: 4.5em;
+	}
+
+	#details-subheader {
+		padding: 0 1em;
+		margin-bottom: .5em;
+	}
+
+	.p-p-d {
+		flex-direction: column;
+		width: 100%;
+	}
+
+	.p-p-d div {
+		margin: 0 auto;
+	}
+
+	.p-p-d h4 {
+		text-align: center;
+	}
+
+	.p-p-d p {
+		width: 100%;
+		padding: 0;
+	}
+
+	#p-p-d-header {
+    margin: 0 1em;
+	}
+
+	#how-list {
+		width: 29em;
+	}
