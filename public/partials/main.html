@@ -1,5 +1,5 @@
-<header id="header" >
-  <ng-include class="nav-class" src="'./partials/nav.html'"></ng-include>
+<!-- <header  > -->
+  <!-- <ng-include id="header" class="nav-class" src="'./partials/nav.html'"></ng-include> -->
   <!-- <nav id="nav2">
   <ul>
   <li ng-click="ctrl.clearScreen(); ctrl.showHomePage = true" class="" ><a href="">Pitch</a></li>
@@ -9,7 +9,7 @@
   <li ng-click="ctrl.clearScreen(); ctrl.showGetInvolvedPage = true"  ><a href="" class="button special">Get Involved</a></li>
 </ul>
 </nav> -->
-</header>
+<!-- </header> -->
         <div id="pitch" ng-show="ctrl.showHomePage">
         <!-- this will be the video -->
             <section id="video_section">
@@ -80,28 +80,38 @@
             </div>
 
         </footer>
-        <div id="skel-layers-hiddenWrapper" style="height: 100%" >
+        <!-- <div id="skel-layers-hiddenWrapper" style="height: 100%" >
             <div id="navPanel" class="skel-layer" style="backface-visibility: hidden; transition: -webkit-transform 0.5s ease, opacity 0.5s ease; z-index: 10000; position: fixed; display: none; overflow-y: auto; overflow-x: hidden; transform: translate(0px, 0px);">
-                <div data-action="moveElement" data-args="nav">
-                  <div id="header">
-                    <div class="logo-div">
-                      <h1 ng-click="ctrl.clearScreen(); ctrl.showHomePage = true"> <a><img class="main-logo" src="./images/ALTcongress_LOGO_V_H-OL_H2.png" alt=""></a></h1>
-                    </div>
-                    <nav id="nav">
-                      <ul>
-                        <li ng-click="ctrl.clearScreen(); ctrl.showHomePage = true" class="" ><a href="">Pitch</a></li>
-                        <li ng-click="ctrl.clearScreen(); ctrl.showDetailsPage = true" class="" > <a href="">Details</a> </li>
-                        <li ng-click='ctrl.clearScreen(); ctrl.showMissionPage = true' class="" ><a href="">Mission</a></li>
-                        <li ng-click="ctrl.clearScreen(); ctrl.showQuestionsPage = true" class ="" ><a href="">Questions</a></li>
-                        <li ng-click="ctrl.clearScreen(); ctrl.showGetInvolvedPage = true"  ><a href="" class="button special">Get Involved</a></li>
-                      </ul>
-                    </nav>
+              <div data-action="moveElement" data-args="nav">
+                <div id="header">
+                  <div class="logo-div">
+                    <h1 ng-click="ctrl.clearScreen(); ctrl.showHomePage = true"> <a><img class="main-logo" src="./images/ALTcongress_LOGO_V_H-OL_H2.png" alt=""></a></h1>
                   </div>
                 </div>
-            </div>
-        </div> -->
-        <!-- <div id="skel-layers-visibleWrapper" style="position: relative;">
-            <div id="navButton" class="skel-layer skel-layer-top-left" style="backface-visibility: hidden; transition: -webkit-transform 0.5s ease, opacity 0.5s ease; z-index: 10002; position: fixed; display: block; top: 0px; left: 0px; transform: translate(0px, 0px); width: 6em; height: 4em;">
-                <span class="toggle" data-action="toggleLayer" data-args="navPanel" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); cursor: pointer;"></span>
+              </div>
+              <nav id="nav">
+                <ul>
+                  <li ng-click="ctrl.clearScreen(); ctrl.showHomePage = true" class="" ><a href="">Pitch</a></li>
+                  <li ng-click="ctrl.clearScreen(); ctrl.showDetailsPage = true" class="" > <a href="">Details</a> </li>
+                  <li ng-click='ctrl.clearScreen(); ctrl.showMissionPage = true' class="" ><a href="">Mission</a></li>
+                  <li ng-click="ctrl.clearScreen(); ctrl.showQuestionsPage = true" class ="" ><a href="">Questions</a></li>
+                  <li ng-click="ctrl.clearScreen(); ctrl.showGetInvolvedPage = true"  ><a href="" class="button special">Get Involved</a></li>
+                </ul>
+              </nav>
             </div>
         </div>
+        <div id="skel-layers-visibleWrapper" style="position: relative;">
+            <div id="navButton" class="skel-layer skel-layer-top-left" style="backface-visibility: hidden; transition: -webkit-transform 0.5s ease, opacity 0.5s ease; z-index: 10002; position: fixed; display: block; top: 0px; left: 0px; transform: translate(0px, 0px); width: 6em; height: 4em;">
+                <span class="toggle" data-action="toggleLayer" data-args="navPanel" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); cursor: pointer;">
+                </span>
+                <!-- <nav id="nav">
+                  <ul>
+                    <li ng-click="ctrl.clearScreen(); ctrl.showHomePage = true" class="" ><a href="">Pitch</a></li>
+                    <li ng-click="ctrl.clearScreen(); ctrl.showDetailsPage = true" class="" > <a href="">Details</a> </li>
+                    <li ng-click='ctrl.clearScreen(); ctrl.showMissionPage = true' class="" ><a href="">Mission</a></li>
+                    <li ng-click="ctrl.clearScreen(); ctrl.showQuestionsPage = true" class ="" ><a href="">Questions</a></li>
+                    <li ng-click="ctrl.clearScreen(); ctrl.showGetInvolvedPage = true"  ><a href="" class="button special">Get Involved</a></li>
+                  </ul>
+                </nav> -->
+            </div>
+        </div> -->

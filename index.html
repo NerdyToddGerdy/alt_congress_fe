@@ -10,6 +10,9 @@
             gtag('config', 'UA-105333969-2');
         </script>
         <title>for the people...</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-route.min.js"></script>
+        <script type="text/javascript" src="/app2.js"></script>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="Content-Security-Policy" content="default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;">
@@ -25,15 +28,22 @@
             <!-- <link rel="stylesheet" href="css/style-xsmall.css" /> -->
             <link rel="stylesheet" href="/css/style.css" />
         </noscript>
-        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-route.min.js"></script>
-        <script type="text/javascript" src="/app2.js"></script>
         <base href="/">
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
     </head>
 
-    <body ng-controller="mainController as ctrl">
+    <body ng-controller="mainController as ctrl" class="landing">
+      <header id="header">
+        <h1>this</h1>
+        <nav id="nav">
+          <ul>
+            <li>test A</li>
+            <li><a href="#">test B</a></li>
+          </ul>
+        </nav>
+      </header>
         <!-- This will send you to the main.html -->
+
         <ng-include class="main" src="partials/main.html"></ng-include>
         <!-- <ng-view></ng-view> -->
         <!-- TEST -->
