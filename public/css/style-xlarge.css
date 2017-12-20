@@ -9,3 +9,6 @@
 	body, input, select, textarea {
 		font-size: 11pt;
 	}
+	header h4 + p, header h5 + p, header h6 + p {
+    font-size: 1em;
+	}

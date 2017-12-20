@@ -297,7 +297,7 @@
 	select {
 		height: 2.75em;
 		width: fit-content;
-		margin: 0 auto;
+		margin: 0;
 	}
 
 	textarea {
@@ -926,12 +926,12 @@
 		top: 0;
 	}
 
-		body.landing #header nav a {
+		body.landing #header nav {
 			color: rgba(255, 255, 255, 0.5);
 		}
 
 	#header {
-		background-color: #9f66a6;
+		background-color: #9164b6;
 		color: #000000;
 		cursor: default;
 		font-size: 1.1em;
@@ -970,13 +970,13 @@
 			}
 
 				#header nav > ul > li {
-					border-radius: 4px;
+					border-radius: 100px;
 					display: inline-block;
 					margin-left: 2em;
 					padding-left: 0;
 				}
 
-					#header nav > ul > li a {
+					#header nav > ul > li{
 						-moz-transition: color 0.2s ease-in-out;
 						-webkit-transition: color 0.2s ease-in-out;
 						-o-transition: color 0.2s ease-in-out;
@@ -987,7 +987,7 @@
 						text-decoration: none;
 					}
 
-						#header nav > ul > li a:active, #header nav > ul > li a:hover {
+						#header nav > ul > li:active, #header nav > ul > li:hover {
 							color: #ffffff;
 						}
 
@@ -1279,18 +1279,19 @@
 		}
 
 		img.main-logo {
-    	width: 30%;
+    	/*width: 30%;*/
 			/*position: relative;
 			top: -161%;*/
 			/*left: -4%;*/
 			/*margin-left: 3%;*/
+			height: 100%;
 		}
 
 		img.main-logo:hover {
 			cursor: pointer
 		}
 
-		/* #header nav > ul > li a {
+		 #header nav > ul > li {
 						-moz-transition: color 0.2s ease-in-out;
 						-webkit-transition: color 0.2s ease-in-out;
 						-o-transition: color 0.2s ease-in-out;
@@ -1300,7 +1301,7 @@
 						display: inline-block;
 						text-decoration: none;
 					}
- */
+
 .logo-div {
 	/*background-color: blue;*/
 	height: inherit;
@@ -1338,7 +1339,7 @@ form{
 }
 label{
 	margin: 1em 0 0 0;
-	text-align: center;
+	text-align: left;
 }
 .p-p-d{
 	display: flex;
@@ -1438,4 +1439,7 @@ label{
 #senate-house{
 	display: flex;
 	justify-content: center;
+}
+.button.special {
+	border-radius: 100px;
 }

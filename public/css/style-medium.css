@@ -101,15 +101,15 @@
 					padding: 0;
 				}
 
-					#navPanel nav ul li:first-child a:not(.button), #navPanel nav ul li:first-child span:not(.button) {
+					#navPanel nav ul li:first-child:not(.button), #navPanel nav ul li:first-child span:not(.button) {
 						border-top: 0;
 					}
 
-					#navPanel nav ul li a.button, #navPanel nav ul li span.button {
+					#navPanel nav ul li.button, #navPanel nav ul li span.button {
 						margin-top: 0.5em;
 					}
 
-					#navPanel nav ul li a:not(.button), #navPanel nav ul li span:not(.button) {
+					#navPanel nav ul li:not(.button), #navPanel nav ul li span:not(.button) {
 						border-top: 1px solid rgba(0, 0, 0, 0.125);
 						display: block;
 						padding: 0.75em 0;
