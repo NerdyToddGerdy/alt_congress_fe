@@ -253,8 +253,9 @@ app.get('/districts/:addr/:city/:state', function(req, res){
         console.log("Looks like you are not sending all the needed data.");
     }
     request.get({
-        url: 'https://www.googleapis.com/civicinfo/v2/representatives?address=' + req.params.addr +'&key='+ api_key
+        url: 'https://www.googleapis.com/civicinfo/v2/representatives?address=' +'?key='+ api_key + req.params.addr
         }, function(error, response, body) {
+          console.log("It is GETting");
         if (!error && response.statusCode == 200) {
             var myEscapedJSONString = response.body
                                       .replace(/\\n/g, "\\n")
@@ -267,6 +268,8 @@ app.get('/districts/:addr/:city/:state', function(req, res){
                                       .replace(/\\f/g, "\\f")
                                       .replace(/\:\\/g, ":");
             res.send(JSON.parse(myEscapedJSONString));
+            // TODO: There is an issue with reaching to the server side from app2.js
+            console.log("IT ESCAPED");
         }
     });
 });

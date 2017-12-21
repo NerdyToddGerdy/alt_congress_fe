@@ -20,9 +20,9 @@
   <h4>Please tell us more</h4>
   <h5>Using your address and zipcode, we can find your Congressional District</h5>
   <label>Street Address</label>
-  <input type="text" ng-model="ctrl.formdata.address" placeholder="Address">
+  <input type="text" ng-model="ctrl.formdata.address" ng-change="ctrl.findDistrict(ctrl.formdata)" placeholder="Address">
   <label>City</label>
-  <input type="text" ng-model="ctrl.formdata.city" placeholder="City">
+  <input type="text" ng-model="ctrl.formdata.city" placeholder="City" ng-change="ctrl.findDistrict(ctrl.formdata)">
   <label>State (Select from the drop down list)</label>
   <select ng-model="ctrl.formdata.State" ng-change="ctrl.findDistrict(ctrl.formdata)">
     <option value="AL">AL</option>

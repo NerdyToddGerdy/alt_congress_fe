@@ -83,6 +83,7 @@ this.findDistrict = (formdata) => {
     console.log('====================================');
 
     $http ({
+      // FIXME The myURL is not working correctly
       method: 'GET',
       url: myURL + '/districts/' + newAddress + '/' + newCity + '/' + this.formdata.State
     }).then( function(response) {
