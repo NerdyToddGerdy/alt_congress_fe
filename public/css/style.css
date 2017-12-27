@@ -230,7 +230,7 @@
 		-o-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: rgba(144, 144, 144, 0.075);
+		background: rgba(144, 144, 144, 0.2);
 		border-radius: 4px;
 		border: none;
 		color: inherit;
@@ -314,7 +314,7 @@
 			display: inline-block;
 			font-size: 1em;
 			font-weight: 400;
-			padding-left: 2.4em;
+			/*padding-left: 2.4em;*/
 			padding-right: 0.75em;
 			position: relative;
 		}
@@ -329,7 +329,7 @@
 				text-transform: none !important;
 			}
 
-			input[type="checkbox"] + label:before,
+			/*input[type="checkbox"] + label:before,
 			input[type="radio"] + label:before {
 				background: rgba(144, 144, 144, 0.075);
 				border-radius: 4px;
@@ -343,15 +343,15 @@
 				text-align: center;
 				top: 0;
 				width: 1.65em;
-			}
+			}*/
 
-		input[type="checkbox"]:checked + label:before,
+		/*input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
 			background: #3cadd4;
 			border-color: #3cadd4;
 			color: #ffffff;
 			content: '\f00c';
-		}
+		}*/
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {

@@ -168,3 +168,11 @@
 	#how-list {
 		width: 29em;
 	}
+	#join{
+		width: 94%;
+		float: right;
+	}
+	#join-box {
+		position: relative;
+		top: 1em;
+	}

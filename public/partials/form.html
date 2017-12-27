@@ -1,20 +1,22 @@
 <form ng-submit="ctrl.processForm()" ng-show="ctrl.showForm">
   <h2 id="form-title">Contact ALTcongress</h2>
   <p id="form-description">Right now ALTcongress is only an idea. Please help us take the next step by providing your name and email and expressing your interest in joining us.</p>
-  <label class="form-label" >First Name <span class="req-field">* Required Field</span></label>
+  <label class="form-label" >First Name <br><span class="req-field">* Required Field</span></label>
   <input class="form-input" type="text" ng-model="ctrl.formdata.first_name" placeholder="First Name">
-  <label>Last Name <span class="req-field">* Required Field</span></label>
+  <label>Last Name <span class="req-field"><br>* Required Field</span></label>
   <input type="text" ng-model="ctrl.formdata.last_name" placeholder="Last Name">
-  <label>Email Address <span class="req-field">* Required Field</span></label>
+  <label>Email Address <br><span class="req-field">* Required Field</span></label>
   <input type="text" ng-model="ctrl.formdata.email" placeholder="Email Address"><br>
 
   <h4>YES! I would be interested in...(please select all that apply)</h4>
-  <input type="checkbox" ng-model="ctrl.formdata.i_vote" placeholder=".i_vote">
-  <label><b>Participating</b> in the ALTcongress</label><br>
-  <input type="checkbox" ng-model="ctrl.formdata.i_fund" placeholder=".i_fund">
-  <label><b>Helping Fund</b> ALTcongress</label><br>
-  <input type="checkbox" ng-model="ctrl.formdata.i_join" placeholder=".i_join">
-  <label><b>Joining</b> ALTcongress as an employee or a board member</label><br>
+  <input id="participate-box" type="checkbox" ng-model="ctrl.formdata.i_vote" placeholder=".i_vote">
+  <label id="participate"><b>Participating</b> in the ALTcongress</label><br>
+  <input id="help-box" type="checkbox" ng-model="ctrl.formdata.i_fund" placeholder=".i_fund">
+  <label id=help><b>Helping Fund</b> ALTcongress</label><br>
+  <input id="join-box" type="checkbox" ng-model="ctrl.formdata.i_join" placeholder=".i_join">
+  <label id="join"><b>Joining</b> ALTcongress as an employee or a board member</label><br>
+  <br>
+  <br>
   <br>
 
   <h4>Please tell us more</h4>

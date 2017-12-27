@@ -61,6 +61,9 @@
 	.button {
 		padding: 0;
 	}
+	input[type="submit"] {
+    width: inherit;
+}
 
 /* Banner */
 
@@ -97,4 +100,28 @@
 	.answer{
 		width: 100%;
 		padding: 0;
+	}
+	#participate-box{
+		position: relative;
+		top: 1em;
+	}
+	#participate{
+		width: 85%;
+		float: right;
+	}
+	#help-box{
+		position: relative;
+		top: 3.5em;
+	}
+	#help{
+		width: 85%;
+		float: right;
+	}
+	#join-box{
+		position: relative;
+		top: 6.5em;
+	}
+	#join{
+		width: 85%;
+		float: right;
 	}
