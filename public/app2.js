@@ -73,8 +73,8 @@ this.getQuestions = () => {
 //////////// SEARCH FOR DISTRICT ///////////
 this.findDistrict = (formdata) => {
   if (formdata.address && formdata.city &&formdata.State) {
-    let newAddress = formdata.address.replace(/ /g, '+');
-    let newCity = formdata.city.replace(/ /g, "+");
+    let newAddress = formdata.address.replace(/ /g, '%20');
+    let newCity = formdata.city.replace(/ /g, "%20");
     this.formdata.State = formdata.State;
     console.log('====================================');
     // console.log(newAddress);

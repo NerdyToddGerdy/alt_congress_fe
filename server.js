@@ -1,6 +1,7 @@
 var express = require('express');
 var request = require('request');
 var app = express();
+require('dotenv').config();
 var port = 56789;
 var Sequelize = require('sequelize');
 var bodyParser = require('body-parser');
@@ -24,6 +25,7 @@ var sequelize = new Sequelize(db, admin, password, {
 
 app.use(express.static('public'));
 app.use(bodyParser.json());
+
 
 // This line was not allowing the data so go back to app2.js
 // app.use(bodyParser.urlencoded({extended:false}));
@@ -252,11 +254,13 @@ app.get('/districts/:addr/:city/:state', function(req, res){
         });
         console.log("Looks like you are not sending all the needed data.");
     }
+    console.log('https://www.googleapis.com/civicinfo/v2/representatives'  + "?address=" + req.params.addr + " " + req.params.city + " " +  req.params.state +'&key='+ api_key);
     request.get({
-        url: 'https://www.googleapis.com/civicinfo/v2/representatives?address=' +'?key='+ api_key + req.params.addr
+        url: 'https://www.googleapis.com/civicinfo/v2/representatives'  + "?address=" + req.params.addr + " " + req.params.city + " " +  req.params.state +'&key='+ api_key
         }, function(error, response, body) {
           console.log("It is GETting");
-        if (!error && response.statusCode == 200) {
+          console.log(response.body);
+          if (!error && response.statusCode == 200) {
             var myEscapedJSONString = response.body
                                       .replace(/\\n/g, "\\n")
                                       .replace(/\\'/g, "\\'")
@@ -297,4 +301,5 @@ app.post('/users', function(req, res){
 
 app.listen(port, function() {
   console.log('Let\'s use port: ', port);
+  console.log(api_key);
 });
